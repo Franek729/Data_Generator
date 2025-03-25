@@ -36,13 +36,16 @@ def generate_pesel(birth_date, sex):
 def generate_phone_number():
     return f"48{random.randint(501000000, 819999999)}"
 
+def generate_surname(gender):
+    if gender == 'F':
+        return random.choice(possible_female_surnames)
+    else:
+        return random.choice(possible_male_surnames)
+
 def generate_customer():
     name = random.choice(possible_names)
     sex = 'F' if name[-1] == 'a' else 'M'
-    if sex == 'F':
-        surname = random.choice(possible_female_surnames)
-    else:
-        surname = random.choice(possible_male_surnames)
+    surname = generate_surname()
     birth_date = generate_birth_date()
     pesel = generate_pesel(birth_date, sex)
     street = random.choice(possible_streets)
@@ -56,6 +59,43 @@ def generate_customer():
         "city": city,
         "address": street + ' ' + str(house_number),
         "email": name.lower() + '.' + surname.lower() + '@gmail.com'
+    }
+
+def generate_adjuster():
+    name = random.choice(possible_names)
+    sex = 'F' if name[-1] == 'a' else 'M'
+    surname = generate_surname()
+    email = name.lower() + '.' + surname.lower() + '@gmail.com'
+    return {
+        "name": name + ' ' + surname,
+        "email": email
+    }
+
+def generate_agent():
+    name = random.choice(possible_names)
+    sex = 'F' if name[-1] == 'a' else 'M'
+    surname = generate_surname()
+    email = name.lower() + '.' + surname.lower() + '@gmail.com'
+    return {
+        "name": name + ' ' + surname,
+        "email": email,
+        "phone_number": generate_phone_number(),
+    }
+
+def generate_policy():
+    policy_id = random.randint(100000, 999999)
+    start_date = datetime(random.randint(2010, 2020), random.randint(1, 12), random.randint(1, 28))
+    end_date = start_date + timedelta(days=random.randint(1, 365))
+    return {
+        "policy_id": policy_id,
+        "start_date": start_date,
+        "end_date": end_date
+    }
+
+def generate_claim():
+    claim_id = random.randint(100000, 999999)
+    return {
+        "claim_id": claim_id
     }
 
 print(generate_customer())
