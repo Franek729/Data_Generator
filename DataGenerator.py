@@ -1,6 +1,7 @@
 import random
 from datetime import datetime, timedelta
 from Data import *
+import csv
 
 def generate_birth_date():
     year = random.randint(1940, 2006)
@@ -43,59 +44,112 @@ def generate_surname(gender):
         return random.choice(possible_male_surnames)
 
 def generate_customer():
-    name = random.choice(possible_names)
-    sex = 'F' if name[-1] == 'a' else 'M'
-    surname = generate_surname()
-    birth_date = generate_birth_date()
-    pesel = generate_pesel(birth_date, sex)
-    street = random.choice(possible_streets)
-    city = random.choice(possible_cities)
-    house_number = random.randint(1, 100)
-    return {
-        "name": name + ' ' + surname,
-        "birth_date": birth_date,
-        "pesel": pesel,
-        "phone_number": generate_phone_number(),
-        "city": city,
-        "address": street + ' ' + str(house_number),
-        "email": name.lower() + '.' + surname.lower() + '@gmail.com'
-    }
+    for _ in range(number_of_customers):
+        name = random.choice(possible_names)
+        sex = 'F' if name[-1] == 'a' else 'M'
+        surname = generate_surname(sex)
+        birth_date = generate_birth_date()
+        pesel = generate_pesel(birth_date, sex)
+        street = random.choice(possible_streets)
+        city = random.choice(possible_cities)
+        house_number = random.randint(1, 100)
+        customer = {
+            "name": name + ' ' + surname,
+            "birth_date": birth_date,
+            "pesel": pesel,
+            "phone_number": generate_phone_number(),
+            "city": city,
+            "address": street + ' ' + str(house_number),
+            "email": name.lower() + '.' + surname.lower() + '@gmail.com'
+        }
+        customers.append(customer)
+
+    with open('first_customer.csv', mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=customers[0].keys())
+        writer.writeheader()
+        writer.writerows(customers)
+    
+    return customers
 
 def generate_adjuster():
-    name = random.choice(possible_names)
-    sex = 'F' if name[-1] == 'a' else 'M'
-    surname = generate_surname()
-    email = name.lower() + '.' + surname.lower() + '@gmail.com'
-    return {
-        "name": name + ' ' + surname,
-        "email": email
-    }
+    for _ in range(number_of_adjusters):
+        name = random.choice(possible_names)
+        sex = 'F' if name[-1] == 'a' else 'M'
+        surname = generate_surname(sex)
+        email = name.lower() + '.' + surname.lower() + '@gmail.com'
+        adjuster = {
+            "name": name + ' ' + surname,
+            "email": email
+        }
+        adjusters.append(adjuster)
+
+    with open('first_adjusters.csv', mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=adjusters[0].keys())
+        writer.writeheader()
+        writer.writerows(adjusters)
+    
+    return adjusters
+        
 
 def generate_agent():
-    name = random.choice(possible_names)
-    sex = 'F' if name[-1] == 'a' else 'M'
-    surname = generate_surname()
-    email = name.lower() + '.' + surname.lower() + '@gmail.com'
-    return {
-        "name": name + ' ' + surname,
-        "email": email,
-        "phone_number": generate_phone_number(),
-    }
+    for _ in range(number_of_agents):
+        name = random.choice(possible_names)
+        sex = 'F' if name[-1] == 'a' else 'M'
+        surname = generate_surname(sex)
+        email = name.lower() + '.' + surname.lower() + '@gmail.com'
+        agent = {
+            "name": name + ' ' + surname,
+            "email": email,
+            "phone_number": generate_phone_number(),
+            "branch": random.choice(possible_cities)
+        }
+        agents.append(agent)
+
+    with open('first_agents.csv', mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=agents[0].keys())
+        writer.writeheader()
+        writer.writerows(agents)
+
+    return agents
 
 def generate_policy():
-    policy_id = random.randint(100000, 999999)
-    start_date = datetime(random.randint(2010, 2020), random.randint(1, 12), random.randint(1, 28))
-    end_date = start_date + timedelta(days=random.randint(1, 365))
-    return {
-        "policy_id": policy_id,
-        "start_date": start_date,
-        "end_date": end_date
-    }
+    for _ in range(number_of_policies):
+        policy_id = random.randint(100000, 999999)
+        start_date = datetime(random.randint(2010, 2020), random.randint(1, 12), random.randint(1, 28))
+        end_date = start_date + timedelta(days=random.randint(1, 365))
+        coverage = random.choice(possible_coverage_details)
+        policy = {
+            "policy_id": policy_id,
+            "start_date": start_date,
+            "end_date": end_date,
+            "coverage": coverage,
+            "agent_foreign_key": agents[random.randint(0, number_of_agents - 1)]["name"],
+            "customer_foreign_key": customers[random.randint(0, number_of_customers - 1)]["pesel"]
+        }
+        policies.append(policy)
+
+    with open('first_policies.csv', mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=policies[0].keys())
+        writer.writeheader()
+        writer.writerows(policies)
+    
+    return policies
 
 def generate_claim():
-    claim_id = random.randint(100000, 999999)
-    return {
-        "claim_id": claim_id
-    }
+    for _ in range(number_of_claims):
+        claim_id = random.randint(100000, 999999)
+        status = random.choice(possible_status)
+        claim = {
+            "claim_id": claim_id,
+            "status": status,
+            "policy_foreign_key": policies[random.randint(0, number_of_policies - 1)]["policy_id"],
+            "adjuster_foreign_key": adjusters[random.randint(0, number_of_adjusters - 1)]["name"]
+        }
+        claims.append(claim)
 
-print(generate_customer())
+    with open('first_claims.csv', mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=claims[0].keys())
+        writer.writeheader()
+        writer.writerows(claims)
+    
+    return claims

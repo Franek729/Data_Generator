@@ -56,3 +56,9 @@ possible_streets = [ "ul. Marszałkowska", "ul. Krakowskie Przedmieście", "ul. 
     "Al. Rzeczypospolitej", "Al. Jana III Sobieskiego", "Al. KEN", "Al. Prymasa Tysiąclecia", "Al. Armii Ludowej",
     "Al. Zieleniecka", "Al. Waszyngtona", "Al. Stanów Zjednoczonych", "Al. Krakowska", "Al. Wilanowska"]
 
+possible_status = ["pending", "resolved"]
+
+possible_specialization = ["Automobile", "Property", "Health", "Life", "Industrial", "Agricultural", "Travel", "Other"]
+
+possible_coverage_details = ["Auto insurance", "Home insurance", "Health insurance", "Life insurance", "Travel insurance",
+                              "Business insurance", "Agricurtular insurance"]
