@@ -10,7 +10,7 @@ def generate_birth_date():
     days_between_dates = time_between_dates.days
     random_number_of_days = random.randint(0, days_between_dates)
     random_date = start_date + timedelta(days=random_number_of_days)
-    return random_date
+    return random_date.date()
 
 def generate_pesel(birth_date, sex):
     year = birth_date.year
