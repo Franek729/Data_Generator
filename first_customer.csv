@@ -1,101 +1,1001 @@
 name,birth_date,pesel,phone_number,city,address,email
-Czesława Kozłowska,1945-06-23,45062321263,48784794418,Łódź,Al. Zieleniecka 95,czesława.kozłowska@gmail.com
-Jerzy Tomaszewski,1986-06-18,86061888533,48659908434,Poznań,ul. Targowa 45,jerzy.tomaszewski@gmail.com
-Celina Pawlak,2006-07-23,06272350382,48621387994,Poznań,Al. Jana III Sobieskiego 81,celina.pawlak@gmail.com
-Dawid Wiśniewski,1999-07-01,99070176630,48563868476,Warszawa,Al. Niepodległości 40,dawid.wiśniewski@gmail.com
-Kacper Pietrzak,1978-06-10,78061067436,48751795233,Kraków,ul. Żwirki i Wigury 84,kacper.pietrzak@gmail.com
-Damian Zieliński,1940-09-26,40092615133,48738775206,Warszawa,Al. Armii Ludowej 2,damian.zieliński@gmail.com
-Aleksandra Jabłońska,1958-07-20,58072098742,48535579460,Kraków,Al. Zieleniecka 7,aleksandra.jabłońska@gmail.com
-Dominik Baran,1981-04-24,81042454459,48556775016,Poznań,ul. Puławska 16,dominik.baran@gmail.com
-Dagmara Nowakowska,1984-12-28,84122895667,48600700680,Kraków,Al. Wojska Polskiego 7,dagmara.nowakowska@gmail.com
-Nina Kowalczyk,1982-11-17,82111728323,48531358486,Gdańsk,Al. Waszyngtona 66,nina.kowalczyk@gmail.com
-Janina Michalak,1999-08-22,99082211404,48673174080,Warszawa,ul. Targowa 92,janina.michalak@gmail.com
-Laura Szymańska,1984-04-28,84042825221,48816843292,Łódź,ul. Targowa 72,laura.szymańska@gmail.com
-Eryk Jaworski,1947-05-01,47050111292,48640079006,Poznań,ul. Piotrkowska 36,eryk.jaworski@gmail.com
-Adrian Walczak,1954-11-15,54111554611,48802151808,Łódź,ul. Marszałkowska 89,adrian.walczak@gmail.com
-Karolina Nowicka,1965-04-06,65040695526,48531961350,Poznań,ul. Targowa 24,karolina.nowicka@gmail.com
-Mateusz Grabowski,2000-02-18,00221862638,48692628930,Warszawa,Al. Niepodległości 2,mateusz.grabowski@gmail.com
-Maciej Adamczyk,1940-11-07,40110790976,48682352724,Warszawa,ul. Nowy Świat 59,maciej.adamczyk@gmail.com
-Ignacy Pawłowski,1969-04-20,69042075999,48592897976,Warszawa,ul. Puławska 99,ignacy.pawłowski@gmail.com
-Artur Pietrzak,1988-10-20,88102038174,48650349726,Poznań,Al. Stanów Zjednoczonych 11,artur.pietrzak@gmail.com
-Gabriel Kowalski,1997-06-26,97062652652,48645947168,Poznań,ul. Wspólna 57,gabriel.kowalski@gmail.com
-Edyta Zając,1963-07-20,63072022480,48583495564,Kraków,Al. Armii Ludowej 1,edyta.zając@gmail.com
-Marianna Szewczyk,1967-03-09,67030976105,48547901898,Kraków,Al. Rzeczypospolitej 43,marianna.szewczyk@gmail.com
-Nina Szymańska,1965-07-10,65071041909,48682489953,Gdańsk,ul. Złota 48,nina.szymańska@gmail.com
-Cyprian Pawłowski,1960-12-04,60120450552,48522765438,Gdańsk,ul. Chmielna 1,cyprian.pawłowski@gmail.com
-Dawid Nowak,1988-12-08,88120824351,48620588410,Kraków,ul. Chmielna 87,dawid.nowak@gmail.com
-Dorota Woźniak,1966-09-01,66090197822,48803120377,Łódź,Al. Prymasa Tysiąclecia 74,dorota.woźniak@gmail.com
-Janusz Wójcik,1982-11-07,82110797874,48605059238,Łódź,Al. Zieleniecka 78,janusz.wójcik@gmail.com
-Artur Krawczyk,1951-04-25,51042507297,48781186242,Kraków,ul. Mokotowska 62,artur.krawczyk@gmail.com
-Jerzy Król,1940-12-10,40121069618,48552271622,Gdańsk,ul. Mokotowska 97,jerzy.król@gmail.com
-Marta Górska,1975-01-08,75010838200,48702625928,Kraków,ul. Jana Pawła II 100,marta.górska@gmail.com
-Bartosz Górski,1956-11-25,56112573893,48664982780,Łódź,Al. Wilanowska 31,bartosz.górski@gmail.com
-Małgorzata Mazur,1989-10-05,89100516163,48575001659,Warszawa,Al. Wojska Polskiego 70,małgorzata.mazur@gmail.com
-Grzegorz Szewczyk,2000-04-21,00242152552,48620023540,Gdańsk,ul. Długa 53,grzegorz.szewczyk@gmail.com
-Leon Pawłowski,1952-10-15,52101542536,48738520162,Łódź,ul. Długa 66,leon.pawłowski@gmail.com
-Lidia Pawłowska,1984-07-04,84070432068,48515973944,Łódź,Al. Krakowska 5,lidia.pawłowska@gmail.com
-Maria Wojciechowska,1991-11-19,91111929924,48506378891,Gdańsk,ul. Grójecka 90,maria.wojciechowska@gmail.com
-Leon Nowak,1985-12-08,85120886077,48561436717,Poznań,ul. Mokotowska 82,leon.nowak@gmail.com
-Józef Kowalski,1941-12-10,41121027291,48543943945,Łódź,ul. Złota 51,józef.kowalski@gmail.com
-Leon Sikora,1949-12-23,49122390611,48641624676,Łódź,Al. Stanów Zjednoczonych 1,leon.sikora@gmail.com
-Filip Krawczyk,1967-03-26,67032649137,48623010526,Warszawa,Al. Krakowska 50,filip.krawczyk@gmail.com
-Henryk Wójcik,1953-10-17,53101722395,48717607188,Łódź,Al. Stanów Zjednoczonych 96,henryk.wójcik@gmail.com
-Lucyna Wojciechowska,1967-03-16,67031644621,48532238664,Poznań,Al. Jana III Sobieskiego 57,lucyna.wojciechowska@gmail.com
-Izabela Sikora,1966-02-08,66020827649,48615658582,Warszawa,Al. Wilanowska 47,izabela.sikora@gmail.com
-Celina Piotrowska,1951-04-28,51042846749,48524889656,Łódź,ul. Piotrkowska 63,celina.piotrowska@gmail.com
-Katarzyna Michalska,2001-01-17,01211797143,48602827911,Poznań,ul. Chmielna 62,katarzyna.michalska@gmail.com
-Jan Nowakowski,1981-01-27,81012709273,48519926050,Poznań,Al. Wojska Polskiego 58,jan.nowakowski@gmail.com
-Joanna Wójcik,1958-10-20,58102093927,48596051140,Warszawa,Al. Stanów Zjednoczonych 36,joanna.wójcik@gmail.com
-Franciszek Witkowski,1998-04-17,98041755276,48749157326,Kraków,Al. Stanów Zjednoczonych 79,franciszek.witkowski@gmail.com
-Jolanta Pawlak,2000-09-04,00290461385,48535287101,Gdańsk,ul. Marszałkowska 37,jolanta.pawlak@gmail.com
-Julia Szewczyk,1982-10-07,82100777969,48531910634,Warszawa,Al. KEN 30,julia.szewczyk@gmail.com
-Błażej Szewczyk,2004-03-17,04231775674,48710579406,Kraków,ul. Mokotowska 41,błażej.szewczyk@gmail.com
-Filip Grabowski,1994-05-29,94052913551,48761706543,Gdańsk,Al. Niepodległości 6,filip.grabowski@gmail.com
-Józef Krawczyk,1946-08-06,46080620936,48712855724,Warszawa,Al. Niepodległości 49,józef.krawczyk@gmail.com
-Dawid Pietrzak,1968-02-08,68020856313,48763993970,Gdańsk,ul. Chmielna 65,dawid.pietrzak@gmail.com
-Beata Woźniak,1959-07-16,59071653561,48525855479,Łódź,ul. Marszałkowska 39,beata.woźniak@gmail.com
-Antoni Kowalczyk,1978-08-28,78082862650,48506333148,Poznań,Al. Solidarności 22,antoni.kowalczyk@gmail.com
-Czesława Nowicka,1988-01-03,88010331581,48778973490,Warszawa,ul. Nowy Świat 69,czesława.nowicka@gmail.com
-Karol Dudek,1982-04-10,82041051678,48707167419,Gdańsk,ul. Piotrkowska 54,karol.dudek@gmail.com
-Jacek Woźniak,1987-02-19,87021944797,48770235074,Łódź,Al. Solidarności 87,jacek.woźniak@gmail.com
-Janusz Król,1953-03-18,53031865113,48587305387,Warszawa,ul. Nowy Świat 80,janusz.król@gmail.com
-Magdalena Wieczorek,1942-12-30,42123043786,48794366871,Łódź,Al. Wojska Polskiego 9,magdalena.wieczorek@gmail.com
-Jolanta Witkowska,1995-09-22,95092247341,48759814036,Warszawa,ul. Piotrkowska 44,jolanta.witkowska@gmail.com
-Gabriela Dąbrowska,1952-09-16,52091654787,48692223677,Poznań,ul. Targowa 75,gabriela.dąbrowska@gmail.com
-Ewa Wójcik,1961-11-05,61110555840,48730129363,Kraków,ul. Żwirki i Wigury 7,ewa.wójcik@gmail.com
-Emil Kamiński,1988-07-18,88071848239,48581707869,Warszawa,ul. Marszałkowska 95,emil.kamiński@gmail.com
-Bolesław Adamczyk,1963-06-07,63060799976,48687677231,Warszawa,Al. Zieleniecka 43,bolesław.adamczyk@gmail.com
-Ewa Walczak,1969-01-19,69011992504,48709963786,Warszawa,Al. Niepodległości 56,ewa.walczak@gmail.com
-Józef Dudek,1999-05-30,99053001090,48596848580,Kraków,Al. Waszyngtona 20,józef.dudek@gmail.com
-Lidia Dudek,1976-06-28,76062825686,48529168864,Łódź,Al. Prymasa Tysiąclecia 82,lidia.dudek@gmail.com
-Marek Adamczyk,1960-11-25,60112506618,48762051064,Kraków,ul. Chmielna 34,marek.adamczyk@gmail.com
-Maria Witkowska,1977-08-31,77083133341,48576638546,Łódź,Al. Wilanowska 17,maria.witkowska@gmail.com
-Marian Nowak,1984-12-03,84120369393,48514075051,Kraków,Al. Wilanowska 79,marian.nowak@gmail.com
-Małgorzata Tomaszewska,1997-06-30,97063059922,48732014329,Gdańsk,Al. Krakowska 67,małgorzata.tomaszewska@gmail.com
-Anita Lewandowska,2000-10-06,00300682847,48549586939,Poznań,ul. Marszałkowska 14,anita.lewandowska@gmail.com
-Magdalena Piotrowska,1942-05-12,42051224046,48537246233,Poznań,ul. Piotrkowska 13,magdalena.piotrowska@gmail.com
-Jadwiga Zalewska,2003-07-17,03271721788,48648007889,Łódź,Al. Niepodległości 43,jadwiga.zalewska@gmail.com
-Edyta Wróbel,1950-11-07,50110750188,48759047846,Kraków,ul. Długa 14,edyta.wróbel@gmail.com
-Alicja Pawłowska,1985-01-08,85010826808,48604513589,Kraków,Al. Niepodległości 61,alicja.pawłowska@gmail.com
-Grażyna Olszewska,1993-07-02,93070252840,48730171485,Kraków,Al. Solidarności 61,grażyna.olszewska@gmail.com
-Jadwiga Michalak,1969-12-25,69122545606,48627092383,Kraków,Al. Jana III Sobieskiego 37,jadwiga.michalak@gmail.com
-Ewa Piotrowska,1994-12-09,94120927642,48580561592,Kraków,Al. Wilanowska 90,ewa.piotrowska@gmail.com
-Aleksander Ostrowski,1947-05-24,47052497772,48559904036,Warszawa,Al. Krakowska 82,aleksander.ostrowski@gmail.com
-Lech Nowak,1977-11-05,77110572912,48520129820,Poznań,Al. Waszyngtona 95,lech.nowak@gmail.com
-Czesława Baran,1951-03-22,51032271382,48774906066,Łódź,Al. Wilanowska 71,czesława.baran@gmail.com
-Janusz Nowak,1956-01-24,56012425357,48740994747,Poznań,ul. Żwirki i Wigury 45,janusz.nowak@gmail.com
-Anita Kowalska,1976-12-12,76121293386,48701348293,Łódź,Al. Armii Ludowej 38,anita.kowalska@gmail.com
-Anna Majewska,1983-10-29,83102968782,48620063589,Kraków,ul. Świętokrzyska 62,anna.majewska@gmail.com
-Krystyna Nowicka,1950-04-11,50041144704,48703039171,Gdańsk,Al. Wojska Polskiego 1,krystyna.nowicka@gmail.com
-Danuta Pietrzak,1982-11-22,82112228006,48526407249,Łódź,Al. Krakowska 60,danuta.pietrzak@gmail.com
-Maciej Pietrzak,2002-07-26,02272615197,48509733924,Warszawa,ul. Nowy Świat 71,maciej.pietrzak@gmail.com
-Grażyna Woźniak,1944-05-20,44052013669,48526540689,Poznań,Al. Waszyngtona 96,grażyna.woźniak@gmail.com
-Janusz Zieliński,1956-10-10,56101035751,48701383929,Łódź,ul. Złota 86,janusz.zieliński@gmail.com
-Dariusz Kowalczyk,1954-11-14,54111488570,48779602923,Łódź,Al. Wojska Polskiego 62,dariusz.kowalczyk@gmail.com
-Andrzej Kamiński,1942-08-22,42082200239,48707735752,Łódź,ul. Wspólna 15,andrzej.kamiński@gmail.com
-Kamila Szymańska,1963-10-06,63100609740,48589884950,Gdańsk,Al. Krakowska 94,kamila.szymańska@gmail.com
-Jolanta Michalska,1973-12-25,73122515321,48725038781,Poznań,ul. Chmielna 86,jolanta.michalska@gmail.com
-Ewa Wojciechowska,1962-07-14,62071470348,48609423324,Poznań,ul. Targowa 4,ewa.wojciechowska@gmail.com
-Cezary Majewski,1970-01-25,70012516716,48635126875,Łódź,ul. Nowy Świat 80,cezary.majewski@gmail.com
-Magdalena Nowakowska,1997-06-14,97061419968,48663041493,Warszawa,Al. Rzeczypospolitej 99,magdalena.nowakowska@gmail.com
-Maria Stępień,1955-07-26,55072606720,48577398414,Poznań,ul. Żwirki i Wigury 21,maria.stępień@gmail.com
+Dawid Szymański,1978-10-01,78100186597,48704152300,Poznań,ul. Mokotowska 45,dawid.szymański@gmail.com
+Kajetan Pietrzak,1987-06-25,87062573417,48631588684,Warszawa,ul. Marszałkowska 44,kajetan.pietrzak@gmail.com
+Aleksandra Pawłowska,1941-09-23,41092383725,48569140990,Gdańsk,ul. Długa 65,aleksandra.pawłowska@gmail.com
+Aneta Ostrowska,1953-12-16,53121657226,48626382038,Warszawa,ul. Puławska 34,aneta.ostrowska@gmail.com
+Bogdan Grabowski,1948-12-16,48121623991,48735669180,Poznań,ul. Długa 2,bogdan.grabowski@gmail.com
+Krzysztof Kaczmarek,1940-11-16,40111611050,48576862799,Poznań,Al. Rzeczypospolitej 22,krzysztof.kaczmarek@gmail.com
+Natalia Górska,1952-11-11,52111121525,48706590692,Poznań,ul. Żwirki i Wigury 87,natalia.górska@gmail.com
+Julia Sikora,1955-08-22,55082225902,48642303492,Łódź,ul. Żwirki i Wigury 12,julia.sikora@gmail.com
+Małgorzata Ostrowska,1977-10-01,77100195028,48525221460,Warszawa,ul. Złota 25,małgorzata.ostrowska@gmail.com
+Jarosław Rutkowski,2005-03-13,05231342435,48545166757,Warszawa,ul. Chmielna 81,jarosław.rutkowski@gmail.com
+Emilia Dudek,1952-08-16,52081648084,48707776616,Gdańsk,Al. KEN 61,emilia.dudek@gmail.com
+Emilia Zielińska,1951-08-11,51081173246,48750843076,Gdańsk,ul. Złota 6,emilia.zielińska@gmail.com
+Lucyna Wróblewska,1950-08-26,50082627464,48745564701,Łódź,ul. Wspólna 66,lucyna.wróblewska@gmail.com
+Kazimiera Tomaszewska,2002-05-15,02251522823,48590780901,Kraków,ul. Chmielna 15,kazimiera.tomaszewska@gmail.com
+Adam Pietrzak,1996-03-13,96031330838,48769944329,Gdańsk,ul. Marszałkowska 25,adam.pietrzak@gmail.com
+Krystyna Michalska,1940-10-16,40101604462,48676389116,Warszawa,ul. Targowa 39,krystyna.michalska@gmail.com
+Barbara Grabowska,1984-07-28,84072817001,48543413373,Łódź,ul. Mokotowska 52,barbara.grabowska@gmail.com
+Amelia Rutkowska,2001-01-22,01212230166,48601649492,Warszawa,ul. Chmielna 35,amelia.rutkowska@gmail.com
+Krystyna Malinowska,1998-08-04,98080454125,48630517724,Łódź,Al. Wojska Polskiego 42,krystyna.malinowska@gmail.com
+Katarzyna Majewska,1979-10-28,79102802241,48638850420,Kraków,ul. Targowa 20,katarzyna.majewska@gmail.com
+Justyna Grabowska,1946-10-29,46102933127,48724806885,Kraków,ul. Nowy Świat 11,justyna.grabowska@gmail.com
+Kazimierz Górski,1950-07-08,50070839655,48508736309,Kraków,Al. Waszyngtona 72,kazimierz.górski@gmail.com
+Jan Wróbel,1991-01-06,91010661758,48612365736,Kraków,Al. Wilanowska 87,jan.wróbel@gmail.com
+Hubert Nowakowski,2006-06-09,06260905095,48651466989,Warszawa,ul. Żwirki i Wigury 58,hubert.nowakowski@gmail.com
+Marek Sikora,1993-07-04,93070456954,48553987052,Warszawa,Al. Wilanowska 68,marek.sikora@gmail.com
+Mariusz Kwiatkowski,1998-12-14,98121469754,48800085604,Poznań,Al. Stanów Zjednoczonych 15,mariusz.kwiatkowski@gmail.com
+Ireneusz Kowalczyk,2006-01-20,06212049237,48785709545,Gdańsk,Al. KEN 32,ireneusz.kowalczyk@gmail.com
+Natalia Walczak,2003-03-08,03230890447,48524645714,Gdańsk,Al. Wilanowska 90,natalia.walczak@gmail.com
+Kajetan Olszewski,1946-09-08,46090838918,48580202763,Warszawa,ul. Mokotowska 9,kajetan.olszewski@gmail.com
+Bogdan Grabowski,1965-03-09,65030939256,48762511320,Poznań,Al. Wojska Polskiego 88,bogdan.grabowski@gmail.com
+Błażej Adamczyk,1977-10-21,77102119415,48649835109,Poznań,Al. KEN 78,błażej.adamczyk@gmail.com
+Lidia Nowak,1976-09-25,76092552608,48645705152,Poznań,Al. Armii Ludowej 42,lidia.nowak@gmail.com
+Leon Wojciechowski,1964-06-15,64061514894,48793977010,Kraków,Al. Wilanowska 14,leon.wojciechowski@gmail.com
+Cyprian Malinowski,1951-10-15,51101589217,48532392239,Kraków,ul. Krakowskie Przedmieście 81,cyprian.malinowski@gmail.com
+Jerzy Jankowski,1966-02-07,66020788535,48707394962,Kraków,Al. Rzeczypospolitej 67,jerzy.jankowski@gmail.com
+Leon Woźniak,1972-03-02,72030200370,48554242561,Gdańsk,Al. Wilanowska 69,leon.woźniak@gmail.com
+Janusz Kozłowski,1974-02-28,74022876493,48559707501,Warszawa,ul. Nowy Świat 73,janusz.kozłowski@gmail.com
+Agnieszka Nowicka,1981-05-31,81053127063,48624554213,Łódź,ul. Chmielna 58,agnieszka.nowicka@gmail.com
+Natalia Wróbel,1964-07-31,64073130842,48768723453,Gdańsk,ul. Piotrkowska 77,natalia.wróbel@gmail.com
+Jarosław Woźniak,2005-03-12,05231218077,48687565798,Łódź,ul. Grójecka 63,jarosław.woźniak@gmail.com
+Gabriela Grabowska,1942-03-09,42030952621,48662493718,Warszawa,ul. Świętokrzyska 1,gabriela.grabowska@gmail.com
+Ireneusz Malinowski,2006-10-03,06300311877,48595726563,Łódź,ul. Długa 63,ireneusz.malinowski@gmail.com
+Aneta Jabłońska,1965-08-03,65080306127,48567760517,Poznań,Al. Wilanowska 52,aneta.jabłońska@gmail.com
+Grzegorz Kaczmarek,1971-04-08,71040823214,48633611726,Łódź,Al. Wojska Polskiego 17,grzegorz.kaczmarek@gmail.com
+Lech Rutkowski,2001-01-12,01211244416,48523809276,Gdańsk,Al. Jerozolimskie 56,lech.rutkowski@gmail.com
+Leon Lewandowski,1991-05-03,91050306291,48770809650,Poznań,ul. Krakowskie Przedmieście 83,leon.lewandowski@gmail.com
+Czesława Zielińska,1958-04-23,58042340006,48699767738,Kraków,ul. Wspólna 62,czesława.zielińska@gmail.com
+Natalia Baran,1993-07-02,93070216842,48734920176,Kraków,Al. Niepodległości 7,natalia.baran@gmail.com
+Antoni Zając,1983-03-09,83030987291,48742976543,Kraków,Al. Krakowska 44,antoni.zając@gmail.com
+Jacek Sikora,1947-08-15,47081555779,48792406828,Poznań,ul. Grójecka 70,jacek.sikora@gmail.com
+Monika Walczak,1941-07-28,41072876803,48769757942,Kraków,Al. Zieleniecka 43,monika.walczak@gmail.com
+Damian Kowalski,1995-06-08,95060808174,48510064267,Gdańsk,ul. Jana Pawła II 83,damian.kowalski@gmail.com
+Katarzyna Szymańska,1992-02-26,92022668980,48528470972,Gdańsk,ul. Grójecka 38,katarzyna.szymańska@gmail.com
+Dariusz Nowakowski,1947-03-14,47031412338,48723173031,Gdańsk,ul. Jana Pawła II 26,dariusz.nowakowski@gmail.com
+Katarzyna Olszewska,1940-12-17,40121702667,48705323185,Łódź,Al. Wilanowska 50,katarzyna.olszewska@gmail.com
+Izabela Adamczyk,1944-08-12,44081255722,48516615769,Łódź,Al. Jana III Sobieskiego 39,izabela.adamczyk@gmail.com
+Maria Wróblewska,1958-05-12,58051263208,48663154974,Kraków,ul. Grójecka 22,maria.wróblewska@gmail.com
+Jerzy Piotrowski,1947-04-11,47041101273,48796133212,Warszawa,Al. Stanów Zjednoczonych 89,jerzy.piotrowski@gmail.com
+Kazimiera Ostrowska,1981-01-02,81010292225,48627549584,Poznań,ul. Puławska 95,kazimiera.ostrowska@gmail.com
+Adam Mazur,1956-01-28,56012872012,48727976299,Warszawa,Al. Niepodległości 55,adam.mazur@gmail.com
+Mariusz Szymański,1990-06-15,90061540034,48540501808,Gdańsk,Al. Wojska Polskiego 89,mariusz.szymański@gmail.com
+Dagmara Wróbel,1975-12-14,75121469588,48640755247,Łódź,Al. Wojska Polskiego 81,dagmara.wróbel@gmail.com
+Izabela Jabłońska,1948-03-28,48032812325,48819194861,Łódź,ul. Chmielna 83,izabela.jabłońska@gmail.com
+Agnieszka Górska,1977-08-20,77082073460,48704578531,Poznań,ul. Świętokrzyska 56,agnieszka.górska@gmail.com
+Lucyna Olszewska,1962-09-22,62092265880,48744071102,Poznań,ul. Grójecka 95,lucyna.olszewska@gmail.com
+Dawid Kwiatkowski,1994-04-22,94042260751,48616933787,Kraków,Al. Solidarności 20,dawid.kwiatkowski@gmail.com
+Kazimierz Wróblewski,2003-06-12,03261290157,48650691860,Gdańsk,Al. Zieleniecka 70,kazimierz.wróblewski@gmail.com
+Maria Stępień,1976-02-09,76020989225,48782055123,Poznań,Al. Rzeczypospolitej 3,maria.stępień@gmail.com
+Błażej Szymański,1965-09-17,65091783553,48796073456,Łódź,Al. Jana III Sobieskiego 43,błażej.szymański@gmail.com
+Marek Wróbel,1992-04-29,92042936951,48578618479,Kraków,Al. Wojska Polskiego 40,marek.wróbel@gmail.com
+Emil Krawczyk,1950-06-25,50062504893,48662739372,Łódź,Al. Waszyngtona 32,emil.krawczyk@gmail.com
+Elżbieta Ostrowska,1945-01-11,45011195826,48561334669,Kraków,ul. Puławska 97,elżbieta.ostrowska@gmail.com
+Grażyna Wojciechowska,1956-04-25,56042556982,48764304046,Kraków,ul. Wspólna 43,grażyna.wojciechowska@gmail.com
+Jakub Król,2000-02-06,00220671439,48621465122,Poznań,Al. KEN 89,jakub.król@gmail.com
+Lech Jaworski,1988-05-12,88051224877,48668173811,Kraków,ul. Piotrkowska 84,lech.jaworski@gmail.com
+Jadwiga Szymańska,1967-06-04,67060472789,48659107233,Kraków,ul. Nowy Świat 91,jadwiga.szymańska@gmail.com
+Helena Woźniak,1951-08-05,51080527909,48729416194,Łódź,Al. Wojska Polskiego 53,helena.woźniak@gmail.com
+Lucyna Woźniak,1947-10-22,47102221564,48535846453,Kraków,ul. Puławska 73,lucyna.woźniak@gmail.com
+Ewa Zając,1979-03-15,79031549721,48590071606,Łódź,ul. Chmielna 48,ewa.zając@gmail.com
+Jakub Zalewski,2006-01-01,06210141191,48553631422,Kraków,Al. Prymasa Tysiąclecia 93,jakub.zalewski@gmail.com
+Jacek Woźniak,1959-04-14,59041445938,48573652038,Warszawa,Al. Wilanowska 72,jacek.woźniak@gmail.com
+Aleksander Majewski,1983-11-25,83112579796,48512211654,Gdańsk,Al. Armii Ludowej 10,aleksander.majewski@gmail.com
+Marek Nowicki,1964-01-22,64012247196,48690098209,Gdańsk,Al. Niepodległości 42,marek.nowicki@gmail.com
+Aleksander Jabłoński,1968-07-22,68072201710,48619677390,Kraków,Al. Jerozolimskie 16,aleksander.jabłoński@gmail.com
+Marian Krawczyk,1982-04-10,82041075630,48677254992,Poznań,ul. Wspólna 5,marian.krawczyk@gmail.com
+Halina Wróblewska,1957-05-10,57051045883,48619555989,Warszawa,Al. Zieleniecka 18,halina.wróblewska@gmail.com
+Łukasz Lewandowski,1982-08-24,82082405210,48618747706,Warszawa,Al. Niepodległości 91,łukasz.lewandowski@gmail.com
+Eryk Ostrowski,1943-03-22,43032292735,48579947202,Gdańsk,ul. Piotrkowska 78,eryk.ostrowski@gmail.com
+Beata Kowalczyk,1989-10-29,89102982869,48732054518,Poznań,ul. Świętokrzyska 73,beata.kowalczyk@gmail.com
+Jolanta Kowalska,1955-11-23,55112348744,48564064633,Łódź,ul. Mokotowska 97,jolanta.kowalska@gmail.com
+Damian Jankowski,1943-02-01,43020133794,48705747607,Warszawa,Al. KEN 65,damian.jankowski@gmail.com
+Izabela Kowalczyk,1948-02-22,48022264329,48681249644,Poznań,ul. Nowy Świat 25,izabela.kowalczyk@gmail.com
+Celina Dąbrowska,1948-01-24,48012442164,48530256920,Poznań,ul. Targowa 34,celina.dąbrowska@gmail.com
+Krystyna Tomaszewska,2004-02-01,04220138369,48701080218,Kraków,ul. Wspólna 68,krystyna.tomaszewska@gmail.com
+Karol Sikora,1971-10-09,71100981117,48655459174,Poznań,Al. Wilanowska 52,karol.sikora@gmail.com
+Maria Nowakowska,1991-01-14,91011445744,48676372636,Łódź,Al. Wilanowska 67,maria.nowakowska@gmail.com
+Gabriel Dudek,1959-06-23,59062359533,48769369770,Gdańsk,Al. Jana III Sobieskiego 90,gabriel.dudek@gmail.com
+Karolina Baran,1951-02-24,51022438083,48526053496,Warszawa,Al. Waszyngtona 51,karolina.baran@gmail.com
+Ignacy Król,1955-02-09,55020975858,48617010487,Gdańsk,ul. Puławska 86,ignacy.król@gmail.com
+Amelia Krawczyk,1997-03-03,97030320826,48624813370,Poznań,ul. Wspólna 32,amelia.krawczyk@gmail.com
+Kajetan Michalski,1958-07-13,58071336591,48681296126,Gdańsk,Al. Wojska Polskiego 89,kajetan.michalski@gmail.com
+Adam Wieczorek,1956-07-02,56070238715,48637160755,Poznań,ul. Mokotowska 93,adam.wieczorek@gmail.com
+Janusz Adamczyk,1988-06-21,88062139335,48787635343,Poznań,ul. Targowa 52,janusz.adamczyk@gmail.com
+Cezary Piotrowski,1996-05-24,96052407452,48531220027,Warszawa,Al. Jerozolimskie 51,cezary.piotrowski@gmail.com
+Krystyna Baran,1941-10-14,41101461064,48815036081,Gdańsk,ul. Nowy Świat 86,krystyna.baran@gmail.com
+Kinga Ostrowska,1989-07-02,89070246523,48634418706,Gdańsk,Al. Armii Ludowej 96,kinga.ostrowska@gmail.com
+Bogumiła Szymańska,1970-04-25,70042555024,48614594473,Warszawa,Al. Armii Ludowej 15,bogumiła.szymańska@gmail.com
+Adrian Baran,1990-11-04,90110498855,48753294091,Poznań,Al. Wilanowska 48,adrian.baran@gmail.com
+Halina Nowakowska,2003-08-10,03281028565,48699615229,Łódź,ul. Jana Pawła II 1,halina.nowakowska@gmail.com
+Bogumiła Pietrzak,1945-06-07,45060710344,48587991574,Warszawa,ul. Żwirki i Wigury 4,bogumiła.pietrzak@gmail.com
+Hanna Adamczyk,1943-02-16,43021657347,48701154173,Gdańsk,Al. Wilanowska 36,hanna.adamczyk@gmail.com
+Jan Szewczyk,1988-09-22,88092258651,48502833044,Kraków,Al. Stanów Zjednoczonych 70,jan.szewczyk@gmail.com
+Jadwiga Mazur,1968-04-15,68041534704,48702691119,Warszawa,ul. Wspólna 42,jadwiga.mazur@gmail.com
+Elżbieta Walczak,1984-06-11,84061126004,48510658654,Łódź,ul. Wspólna 97,elżbieta.walczak@gmail.com
+Adrian Malinowski,1962-02-07,62020781714,48771956122,Poznań,Al. Prymasa Tysiąclecia 13,adrian.malinowski@gmail.com
+Aleksander Wiśniewski,1945-11-13,45111305659,48550755050,Warszawa,Al. Armii Ludowej 38,aleksander.wiśniewski@gmail.com
+Julia Witkowska,1991-01-13,91011322946,48689052883,Warszawa,Al. Jerozolimskie 10,julia.witkowska@gmail.com
+Jerzy Stępień,1991-01-27,91012799910,48753837857,Gdańsk,Al. Waszyngtona 92,jerzy.stępień@gmail.com
+Dagmara Górska,1947-01-14,47011456608,48694708650,Gdańsk,ul. Żwirki i Wigury 10,dagmara.górska@gmail.com
+Karol Walczak,1987-04-27,87042743830,48755872088,Gdańsk,Al. KEN 51,karol.walczak@gmail.com
+Marta Majewska,1950-01-08,50010813107,48515144112,Łódź,ul. Grójecka 37,marta.majewska@gmail.com
+Grzegorz Wójcik,1945-06-13,45061351478,48561063715,Łódź,ul. Mokotowska 70,grzegorz.wójcik@gmail.com
+Łukasz Wójcik,1971-02-01,71020113036,48603343377,Łódź,ul. Złota 38,łukasz.wójcik@gmail.com
+Edward Jaworski,1959-01-12,59011296937,48672041659,Kraków,Al. Jerozolimskie 30,edward.jaworski@gmail.com
+Adrian Pietrzak,1991-05-13,91051369857,48662652347,Kraków,Al. Wilanowska 30,adrian.pietrzak@gmail.com
+Aleksandra Król,1993-01-11,93011163109,48535982243,Kraków,Al. Krakowska 56,aleksandra.król@gmail.com
+Anita Nowicka,1948-11-08,48110881762,48661808045,Kraków,ul. Jana Pawła II 77,anita.nowicka@gmail.com
+Ewa Olszewska,1977-10-15,77101524061,48807077647,Kraków,Al. Waszyngtona 2,ewa.olszewska@gmail.com
+Barbara Krawczyk,1980-03-16,80031660103,48737789308,Warszawa,ul. Krakowskie Przedmieście 47,barbara.krawczyk@gmail.com
+Mateusz Szewczyk,1958-05-01,58050141372,48570517441,Gdańsk,ul. Chmielna 30,mateusz.szewczyk@gmail.com
+Hubert Adamczyk,1997-10-17,97101728012,48694062061,Warszawa,Al. Jerozolimskie 95,hubert.adamczyk@gmail.com
+Filip Szewczyk,1947-09-27,47092715290,48605384819,Poznań,Al. Zieleniecka 90,filip.szewczyk@gmail.com
+Beata Walczak,1953-04-15,53041594043,48707771841,Warszawa,ul. Krakowskie Przedmieście 32,beata.walczak@gmail.com
+Julia Olszewska,1955-07-24,55072401561,48635104019,Warszawa,ul. Żwirki i Wigury 85,julia.olszewska@gmail.com
+Hubert Wojciechowski,1970-06-02,70060237092,48538148483,Łódź,ul. Marszałkowska 48,hubert.wojciechowski@gmail.com
+Bogumiła Michalska,2004-10-17,04301763204,48720882499,Gdańsk,Al. Solidarności 13,bogumiła.michalska@gmail.com
+Kinga Pietrzak,1999-05-21,99052103144,48534801055,Poznań,Al. Rzeczypospolitej 26,kinga.pietrzak@gmail.com
+Aleksandra Rutkowska,1984-06-28,84062838328,48765156665,Kraków,Al. Wilanowska 57,aleksandra.rutkowska@gmail.com
+Ireneusz Mazur,1972-11-05,72110526657,48585549668,Warszawa,Al. Stanów Zjednoczonych 75,ireneusz.mazur@gmail.com
+Antoni Pawlak,1976-11-13,76111372712,48628219260,Łódź,ul. Mokotowska 57,antoni.pawlak@gmail.com
+Ewa Baran,1988-12-21,88122149504,48591292441,Gdańsk,Al. Rzeczypospolitej 38,ewa.baran@gmail.com
+Artur Wieczorek,1988-10-19,88101949356,48727656538,Poznań,Al. Jerozolimskie 69,artur.wieczorek@gmail.com
+Barbara Adamczyk,1946-01-23,46012386305,48670305202,Poznań,Al. Armii Ludowej 17,barbara.adamczyk@gmail.com
+Bartosz Walczak,1957-07-22,57072267275,48786373578,Kraków,Al. Solidarności 65,bartosz.walczak@gmail.com
+Jacek Stępień,1964-09-05,64090577271,48615327703,Łódź,Al. Krakowska 25,jacek.stępień@gmail.com
+Katarzyna Dąbrowska,1981-04-08,81040894482,48806803967,Gdańsk,ul. Świętokrzyska 37,katarzyna.dąbrowska@gmail.com
+Daniel Jankowski,1981-06-22,81062289031,48565027448,Gdańsk,Al. Jerozolimskie 63,daniel.jankowski@gmail.com
+Edward Michalski,1947-10-12,47101295294,48791532254,Gdańsk,ul. Żwirki i Wigury 85,edward.michalski@gmail.com
+Mariusz Wojciechowski,1977-07-12,77071282879,48656746440,Łódź,ul. Jana Pawła II 96,mariusz.wojciechowski@gmail.com
+Emil Dudek,1944-06-30,44063034239,48682585630,Poznań,ul. Mokotowska 10,emil.dudek@gmail.com
+Helena Szewczyk,1998-03-24,98032477202,48709530826,Kraków,Al. Wilanowska 56,helena.szewczyk@gmail.com
+Dorota Majewska,1974-03-09,74030954525,48594029885,Kraków,Al. Jana III Sobieskiego 58,dorota.majewska@gmail.com
+Laura Dąbrowska,1968-02-02,68020291042,48784574012,Kraków,ul. Wspólna 17,laura.dąbrowska@gmail.com
+Ewa Król,2002-06-21,02262103264,48695200082,Gdańsk,ul. Puławska 17,ewa.król@gmail.com
+Julia Baran,1964-04-27,64042790307,48698492044,Warszawa,ul. Świętokrzyska 78,julia.baran@gmail.com
+Emilia Jabłońska,1968-06-20,68062091743,48781417864,Kraków,Al. Wilanowska 42,emilia.jabłońska@gmail.com
+Karolina Zając,1964-11-05,64110514442,48615567744,Warszawa,Al. Wilanowska 48,karolina.zając@gmail.com
+Antoni Szymański,1968-03-28,68032829330,48795995375,Kraków,Al. Solidarności 64,antoni.szymański@gmail.com
+Lucyna Wróbel,1964-05-07,64050760004,48747407827,Kraków,ul. Złota 86,lucyna.wróbel@gmail.com
+Filip Zalewski,1954-09-05,54090530570,48599669781,Warszawa,ul. Wspólna 22,filip.zalewski@gmail.com
+Kinga Kowalczyk,1991-12-02,91120292020,48570383671,Łódź,ul. Nowy Świat 82,kinga.kowalczyk@gmail.com
+Dagmara Jaworska,1952-03-26,52032665302,48627013674,Łódź,Al. KEN 92,dagmara.jaworska@gmail.com
+Mariusz Adamczyk,1986-03-25,86032541997,48621458314,Poznań,Al. Krakowska 61,mariusz.adamczyk@gmail.com
+Agnieszka Jankowska,1987-05-05,87050580326,48673249329,Łódź,ul. Jana Pawła II 44,agnieszka.jankowska@gmail.com
+Natalia Michalska,2004-03-09,04230922145,48688272564,Kraków,ul. Grójecka 99,natalia.michalska@gmail.com
+Dagmara Mazur,1952-01-17,52011769647,48746459051,Gdańsk,ul. Grójecka 35,dagmara.mazur@gmail.com
+Dorota Malinowska,1983-07-17,83071716687,48648030550,Poznań,ul. Krakowskie Przedmieście 31,dorota.malinowska@gmail.com
+Lech Górski,1952-03-15,52031551095,48507066718,Kraków,ul. Grójecka 59,lech.górski@gmail.com
+Elżbieta Malinowska,1956-07-01,56070118088,48547733558,Warszawa,Al. Jerozolimskie 28,elżbieta.malinowska@gmail.com
+Arkadiusz Kaczmarek,1993-10-20,93102011151,48705974546,Kraków,Al. Rzeczypospolitej 23,arkadiusz.kaczmarek@gmail.com
+Lucyna Jankowska,1981-08-12,81081238601,48707786635,Poznań,ul. Wspólna 97,lucyna.jankowska@gmail.com
+Czesława Zając,1949-09-14,49091465626,48527998607,Łódź,Al. Krakowska 51,czesława.zając@gmail.com
+Kinga Krawczyk,1963-06-17,63061761244,48757921743,Łódź,ul. Złota 15,kinga.krawczyk@gmail.com
+Adam Dąbrowski,1965-11-23,65112310975,48706628536,Warszawa,Al. Niepodległości 31,adam.dąbrowski@gmail.com
+Monika Szewczyk,1988-11-06,88110649869,48711638893,Poznań,ul. Marszałkowska 95,monika.szewczyk@gmail.com
+Bartosz Malinowski,1981-08-10,81081012216,48774310821,Poznań,ul. Mokotowska 94,bartosz.malinowski@gmail.com
+Leon Nowakowski,1989-05-11,89051190959,48640667396,Łódź,ul. Marszałkowska 97,leon.nowakowski@gmail.com
+Jan Wróbel,1976-06-15,76061568216,48626310877,Poznań,Al. Krakowska 86,jan.wróbel@gmail.com
+Aleksandra Nowak,1973-11-03,73110304607,48525304250,Poznań,Al. Jerozolimskie 17,aleksandra.nowak@gmail.com
+Danuta Rutkowska,1947-10-15,47101521160,48663695423,Warszawa,Al. Solidarności 60,danuta.rutkowska@gmail.com
+Arkadiusz Jaworski,2001-11-11,01311117850,48618397916,Kraków,Al. Solidarności 44,arkadiusz.jaworski@gmail.com
+Kazimierz Wójcik,1987-11-03,87110387397,48770347289,Poznań,ul. Mokotowska 94,kazimierz.wójcik@gmail.com
+Adrian Nowak,1960-11-13,60111312393,48504307375,Łódź,ul. Złota 89,adrian.nowak@gmail.com
+Jarosław Grabowski,1943-08-04,43080411595,48640758551,Kraków,ul. Świętokrzyska 18,jarosław.grabowski@gmail.com
+Dominik Szewczyk,1971-07-30,71073073077,48609590959,Łódź,Al. Jana III Sobieskiego 92,dominik.szewczyk@gmail.com
+Filip Michalak,1989-01-04,89010490193,48779694014,Poznań,Al. Waszyngtona 3,filip.michalak@gmail.com
+Czesława Tomaszewska,2003-07-21,03272168487,48609229165,Gdańsk,ul. Nowy Świat 36,czesława.tomaszewska@gmail.com
+Celina Pietrzak,1979-09-17,79091769949,48793487875,Gdańsk,Al. Wilanowska 39,celina.pietrzak@gmail.com
+Kajetan Kaczmarek,1980-07-06,80070627271,48666784311,Warszawa,ul. Świętokrzyska 8,kajetan.kaczmarek@gmail.com
+Lech Malinowski,1945-06-06,45060678091,48758373350,Poznań,ul. Puławska 57,lech.malinowski@gmail.com
+Bartłomiej Wójcik,1959-05-15,59051578235,48802562584,Kraków,ul. Żwirki i Wigury 60,bartłomiej.wójcik@gmail.com
+Beata Lewandowska,2003-09-07,03290729321,48795295247,Poznań,Al. Jerozolimskie 63,beata.lewandowska@gmail.com
+Marek Szewczyk,1967-11-10,67111043612,48650045395,Łódź,ul. Chmielna 96,marek.szewczyk@gmail.com
+Anita Wróblewska,1996-04-28,96042824186,48679459875,Łódź,Al. Wilanowska 72,anita.wróblewska@gmail.com
+Agnieszka Wojciechowska,1943-09-15,43091505883,48756778677,Warszawa,ul. Jana Pawła II 99,agnieszka.wojciechowska@gmail.com
+Krystyna Ostrowska,1947-09-03,47090384744,48814826116,Gdańsk,ul. Krakowskie Przedmieście 43,krystyna.ostrowska@gmail.com
+Franciszek Baran,1964-09-16,64091623995,48774471876,Łódź,ul. Piotrkowska 32,franciszek.baran@gmail.com
+Leon Sikora,1996-11-07,96110705971,48738274820,Warszawa,Al. Wojska Polskiego 1,leon.sikora@gmail.com
+Błażej Zieliński,1984-02-09,84020980573,48728471832,Kraków,Al. Prymasa Tysiąclecia 79,błażej.zieliński@gmail.com
+Bogumiła Olszewska,1965-09-05,65090509965,48521343472,Poznań,ul. Piotrkowska 45,bogumiła.olszewska@gmail.com
+Dominik Wojciechowski,1945-12-11,45121167816,48594447822,Poznań,Al. Waszyngtona 30,dominik.wojciechowski@gmail.com
+Kajetan Wieczorek,1991-07-08,91070854093,48668788850,Warszawa,ul. Chmielna 71,kajetan.wieczorek@gmail.com
+Danuta Kwiatkowska,2006-07-22,06272259346,48775349101,Łódź,Al. Jerozolimskie 89,danuta.kwiatkowska@gmail.com
+Magdalena Kowalska,1961-05-23,61052304146,48673802736,Kraków,Al. Prymasa Tysiąclecia 15,magdalena.kowalska@gmail.com
+Jan Malinowski,1960-03-25,60032548093,48504079290,Warszawa,Al. Jerozolimskie 73,jan.malinowski@gmail.com
+Edyta Wojciechowska,2002-05-03,02250379228,48726080099,Gdańsk,Al. Wojska Polskiego 9,edyta.wojciechowska@gmail.com
+Dagmara Wojciechowska,1995-06-06,95060657501,48647872985,Poznań,ul. Mokotowska 94,dagmara.wojciechowska@gmail.com
+Artur Malinowski,1977-09-14,77091400534,48615978898,Gdańsk,ul. Jana Pawła II 43,artur.malinowski@gmail.com
+Ignacy Tomaszewski,1989-05-27,89052727093,48554172960,Poznań,Al. Krakowska 8,ignacy.tomaszewski@gmail.com
+Emil Pawlak,1995-07-25,95072512957,48644885463,Poznań,Al. Jerozolimskie 46,emil.pawlak@gmail.com
+Lidia Wójcik,1974-04-18,74041871361,48538374309,Poznań,Al. Niepodległości 10,lidia.wójcik@gmail.com
+Joanna Kwiatkowska,1959-01-19,59011907060,48679271366,Poznań,ul. Nowy Świat 85,joanna.kwiatkowska@gmail.com
+Nina Dąbrowska,1996-05-09,96050903226,48518162854,Warszawa,ul. Złota 83,nina.dąbrowska@gmail.com
+Damian Grabowski,1972-10-12,72101266793,48503430624,Kraków,Al. Jana III Sobieskiego 84,damian.grabowski@gmail.com
+Karolina Rutkowska,2003-03-25,03232584209,48751569907,Gdańsk,ul. Długa 55,karolina.rutkowska@gmail.com
+Hubert Dąbrowski,2005-12-31,05323117451,48526604483,Poznań,ul. Długa 18,hubert.dąbrowski@gmail.com
+Maria Lewandowska,1949-12-17,49121731668,48717723868,Poznań,Al. Wilanowska 94,maria.lewandowska@gmail.com
+Karol Piotrowski,2002-02-06,02220630638,48652627916,Poznań,ul. Żwirki i Wigury 16,karol.piotrowski@gmail.com
+Maciej Sikora,2003-09-03,03290311056,48507631043,Łódź,ul. Grójecka 12,maciej.sikora@gmail.com
+Antoni Nowak,1963-08-14,63081402491,48725900982,Łódź,Al. Solidarności 78,antoni.nowak@gmail.com
+Jakub Jabłoński,1963-08-23,63082345719,48805648341,Warszawa,Al. Prymasa Tysiąclecia 60,jakub.jabłoński@gmail.com
+Natalia Michalska,1940-04-27,40042718145,48533035410,Kraków,Al. Solidarności 64,natalia.michalska@gmail.com
+Cezary Kaczmarek,2006-06-30,06263001712,48528222450,Poznań,ul. Mokotowska 57,cezary.kaczmarek@gmail.com
+Elżbieta Malinowska,1978-07-27,78072786423,48793927274,Poznań,ul. Marszałkowska 82,elżbieta.malinowska@gmail.com
+Irena Wójcik,1977-04-17,77041749821,48805935797,Łódź,Al. Krakowska 43,irena.wójcik@gmail.com
+Danuta Olszewska,1942-12-19,42121957504,48753611276,Łódź,Al. Niepodległości 98,danuta.olszewska@gmail.com
+Izabela Król,1940-06-19,40061922828,48783463542,Kraków,Al. Prymasa Tysiąclecia 43,izabela.król@gmail.com
+Jadwiga Zając,2001-11-03,01310307487,48549920797,Warszawa,Al. Krakowska 60,jadwiga.zając@gmail.com
+Franciszek Rutkowski,1983-06-22,83062294910,48775228167,Gdańsk,ul. Złota 2,franciszek.rutkowski@gmail.com
+Edward Pawlak,1959-02-24,59022407836,48524622342,Łódź,ul. Chmielna 49,edward.pawlak@gmail.com
+Maciej Walczak,2004-09-19,04291913537,48727634816,Łódź,ul. Chmielna 22,maciej.walczak@gmail.com
+Janusz Wróblewski,1951-07-23,51072300954,48508602098,Warszawa,Al. Solidarności 1,janusz.wróblewski@gmail.com
+Dawid Malinowski,1943-11-16,43111622338,48780702311,Gdańsk,ul. Mokotowska 79,dawid.malinowski@gmail.com
+Edyta Pawlak,2001-08-02,01280210763,48567237927,Łódź,ul. Targowa 5,edyta.pawlak@gmail.com
+Cyprian Olszewski,1990-06-24,90062457876,48621045462,Łódź,Al. Stanów Zjednoczonych 97,cyprian.olszewski@gmail.com
+Mateusz Kozłowski,1955-04-05,55040530411,48797584929,Warszawa,Al. Niepodległości 46,mateusz.kozłowski@gmail.com
+Bogdan Kowalski,1982-08-08,82080801193,48593446534,Kraków,Al. Stanów Zjednoczonych 2,bogdan.kowalski@gmail.com
+Barbara Rutkowska,1960-01-29,60012914522,48782376052,Poznań,Al. Jerozolimskie 20,barbara.rutkowska@gmail.com
+Janina Pawłowska,1980-01-26,80012603624,48697631860,Łódź,ul. Jana Pawła II 51,janina.pawłowska@gmail.com
+Anita Woźniak,1988-12-17,88121777801,48507494326,Poznań,ul. Złota 86,anita.woźniak@gmail.com
+Katarzyna Kaczmarek,1992-01-23,92012328726,48679651110,Łódź,ul. Nowy Świat 3,katarzyna.kaczmarek@gmail.com
+Bartłomiej Jaworski,1967-05-13,67051312775,48747183738,Łódź,Al. Solidarności 10,bartłomiej.jaworski@gmail.com
+Błażej Adamczyk,1978-12-12,78121208890,48520265387,Kraków,Al. Armii Ludowej 93,błażej.adamczyk@gmail.com
+Maria Wróbel,1988-05-03,88050363104,48784730327,Poznań,ul. Świętokrzyska 66,maria.wróbel@gmail.com
+Anita Zielińska,1994-07-18,94071868021,48709969128,Łódź,Al. Jerozolimskie 11,anita.zielińska@gmail.com
+Aleksander Zalewski,1983-06-26,83062605196,48803849227,Warszawa,Al. Jana III Sobieskiego 43,aleksander.zalewski@gmail.com
+Kamila Szymańska,1997-11-23,97112330323,48504594143,Poznań,Al. Zieleniecka 16,kamila.szymańska@gmail.com
+Daniel Tomaszewski,2004-02-28,04222885313,48547004420,Łódź,Al. Stanów Zjednoczonych 28,daniel.tomaszewski@gmail.com
+Magdalena Górska,1989-06-25,89062551888,48664029750,Poznań,Al. Prymasa Tysiąclecia 56,magdalena.górska@gmail.com
+Izabela Grabowska,1997-01-14,97011488321,48683443452,Warszawa,ul. Nowy Świat 18,izabela.grabowska@gmail.com
+Helena Michalska,1958-05-13,58051337224,48519948628,Łódź,Al. Stanów Zjednoczonych 46,helena.michalska@gmail.com
+Antoni Nowak,1952-09-21,52092132110,48654027339,Poznań,Al. Jerozolimskie 96,antoni.nowak@gmail.com
+Katarzyna Wieczorek,1972-12-27,72122748924,48597395827,Kraków,Al. Jerozolimskie 29,katarzyna.wieczorek@gmail.com
+Krzysztof Walczak,1969-10-07,69100797751,48800891251,Łódź,ul. Żwirki i Wigury 89,krzysztof.walczak@gmail.com
+Artur Wiśniewski,1982-12-19,82121904052,48758327572,Poznań,Al. Rzeczypospolitej 45,artur.wiśniewski@gmail.com
+Leon Nowak,1997-09-11,97091159658,48805121535,Gdańsk,Al. Zieleniecka 60,leon.nowak@gmail.com
+Beata Olszewska,1976-01-30,76013007703,48793613846,Warszawa,ul. Nowy Świat 12,beata.olszewska@gmail.com
+Agnieszka Michalak,1991-05-08,91050830503,48787531684,Warszawa,ul. Marszałkowska 95,agnieszka.michalak@gmail.com
+Elżbieta Szymańska,1963-03-11,63031130560,48624414410,Warszawa,Al. Solidarności 86,elżbieta.szymańska@gmail.com
+Helena Jankowska,1947-10-20,47102062082,48740804038,Warszawa,Al. KEN 74,helena.jankowska@gmail.com
+Justyna Król,1954-12-20,54122018724,48519320301,Poznań,Al. Solidarności 2,justyna.król@gmail.com
+Beata Górska,1963-07-15,63071586389,48620807060,Kraków,ul. Mokotowska 7,beata.górska@gmail.com
+Bartosz Kowalski,2002-12-11,02321144236,48530634255,Łódź,ul. Wspólna 91,bartosz.kowalski@gmail.com
+Janusz Dudek,1951-11-28,51112802453,48708348982,Gdańsk,ul. Krakowskie Przedmieście 31,janusz.dudek@gmail.com
+Celina Grabowska,1994-07-07,94070784607,48683309475,Gdańsk,Al. Rzeczypospolitej 91,celina.grabowska@gmail.com
+Agnieszka Nowak,1968-04-25,68042537003,48549536553,Poznań,ul. Żwirki i Wigury 99,agnieszka.nowak@gmail.com
+Hanna Kozłowska,1978-01-06,78010693644,48639486488,Warszawa,ul. Jana Pawła II 21,hanna.kozłowska@gmail.com
+Filip Jankowski,1952-04-25,52042590218,48566167437,Gdańsk,Al. Wojska Polskiego 39,filip.jankowski@gmail.com
+Marta Walczak,1960-02-12,60021225420,48668957890,Łódź,Al. Stanów Zjednoczonych 84,marta.walczak@gmail.com
+Marianna Wieczorek,1949-07-06,49070674683,48621573275,Warszawa,ul. Grójecka 33,marianna.wieczorek@gmail.com
+Agnieszka Wójcik,1985-04-18,85041897604,48508038530,Poznań,Al. KEN 17,agnieszka.wójcik@gmail.com
+Celina Nowicka,1970-09-26,70092672302,48592467872,Warszawa,Al. Wilanowska 76,celina.nowicka@gmail.com
+Kajetan Zieliński,1997-11-21,97112134835,48708096620,Warszawa,ul. Świętokrzyska 34,kajetan.zieliński@gmail.com
+Krzysztof Wróbel,1968-06-24,68062421139,48596818899,Kraków,Al. Wilanowska 30,krzysztof.wróbel@gmail.com
+Czesława Górska,1952-04-18,52041819345,48583923740,Gdańsk,Al. Wilanowska 50,czesława.górska@gmail.com
+Aleksandra Wieczorek,1982-04-14,82041474866,48707567652,Łódź,Al. Prymasa Tysiąclecia 36,aleksandra.wieczorek@gmail.com
+Ireneusz Majewski,2001-02-02,01220289095,48743544818,Gdańsk,Al. Rzeczypospolitej 10,ireneusz.majewski@gmail.com
+Alicja Kwiatkowska,1979-03-16,79031660022,48778982546,Warszawa,ul. Puławska 84,alicja.kwiatkowska@gmail.com
+Dominik Jankowski,1997-02-01,97020112615,48769465109,Kraków,ul. Marszałkowska 1,dominik.jankowski@gmail.com
+Filip Ostrowski,1968-10-10,68101075350,48736779461,Kraków,ul. Grójecka 62,filip.ostrowski@gmail.com
+Eryk Kowalczyk,1999-02-21,99022150037,48701638215,Kraków,Al. Wilanowska 99,eryk.kowalczyk@gmail.com
+Ignacy Sikora,1998-12-04,98120414458,48651240177,Gdańsk,ul. Długa 64,ignacy.sikora@gmail.com
+Artur Kozłowski,1994-03-10,94031047451,48524728847,Gdańsk,Al. Wilanowska 77,artur.kozłowski@gmail.com
+Aleksander Zalewski,1958-06-08,58060855072,48594483811,Warszawa,Al. Krakowska 56,aleksander.zalewski@gmail.com
+Halina Woźniak,1975-07-03,75070384660,48527875070,Łódź,Al. Zieleniecka 12,halina.woźniak@gmail.com
+Grażyna Wieczorek,2000-07-29,00272922644,48623686170,Łódź,Al. Waszyngtona 39,grażyna.wieczorek@gmail.com
+Janusz Dudek,1991-09-12,91091255215,48726265776,Gdańsk,Al. Wojska Polskiego 15,janusz.dudek@gmail.com
+Joanna Woźniak,1998-08-29,98082961067,48605448576,Kraków,Al. Krakowska 51,joanna.woźniak@gmail.com
+Kacper Pietrzak,1964-08-09,64080900959,48759392219,Poznań,Al. Zieleniecka 52,kacper.pietrzak@gmail.com
+Karolina Stępień,2005-01-28,05212835444,48670443048,Warszawa,Al. Niepodległości 71,karolina.stępień@gmail.com
+Laura Rutkowska,1972-09-21,72092188904,48630777323,Poznań,Al. KEN 75,laura.rutkowska@gmail.com
+Joanna Mazur,1943-09-25,43092512349,48623574897,Poznań,Al. Niepodległości 58,joanna.mazur@gmail.com
+Julia Kaczmarek,1946-05-14,46051494704,48723915147,Łódź,ul. Nowy Świat 43,julia.kaczmarek@gmail.com
+Kazimierz Zalewski,1965-02-08,65020819092,48792936743,Kraków,Al. Niepodległości 34,kazimierz.zalewski@gmail.com
+Czesława Piotrowska,1943-04-09,43040960804,48618970242,Warszawa,Al. Jana III Sobieskiego 37,czesława.piotrowska@gmail.com
+Anita Lewandowska,1965-01-25,65012519685,48588244389,Poznań,ul. Puławska 89,anita.lewandowska@gmail.com
+Marta Kowalczyk,1994-02-22,94022261125,48790244860,Kraków,ul. Mokotowska 35,marta.kowalczyk@gmail.com
+Kinga Zielińska,1982-08-02,82080235842,48552736740,Poznań,ul. Krakowskie Przedmieście 93,kinga.zielińska@gmail.com
+Monika Dąbrowska,1994-06-19,94061921769,48698372778,Łódź,Al. Niepodległości 81,monika.dąbrowska@gmail.com
+Lucyna Wróblewska,1943-06-04,43060469107,48770926790,Warszawa,Al. Zieleniecka 49,lucyna.wróblewska@gmail.com
+Filip Rutkowski,1967-11-14,67111433235,48617557910,Łódź,ul. Złota 97,filip.rutkowski@gmail.com
+Cyprian Nowicki,1992-12-01,92120199379,48513628152,Łódź,Al. Waszyngtona 49,cyprian.nowicki@gmail.com
+Emilia Dudek,1963-06-01,63060180804,48697197642,Kraków,Al. Armii Ludowej 38,emilia.dudek@gmail.com
+Dagmara Mazur,1964-07-07,64070762343,48698123699,Kraków,ul. Świętokrzyska 75,dagmara.mazur@gmail.com
+Dorota Szewczyk,1945-07-24,45072467122,48558991595,Łódź,ul. Chmielna 19,dorota.szewczyk@gmail.com
+Henryk Tomaszewski,1954-06-18,54061853217,48714423501,Kraków,ul. Żwirki i Wigury 89,henryk.tomaszewski@gmail.com
+Izabela Pawłowska,1996-01-12,96011214547,48746024935,Łódź,ul. Żwirki i Wigury 64,izabela.pawłowska@gmail.com
+Lucyna Woźniak,1942-03-01,42030120860,48576697641,Łódź,Al. Rzeczypospolitej 13,lucyna.woźniak@gmail.com
+Joanna Wojciechowska,1998-05-08,98050821067,48571433336,Poznań,Al. Waszyngtona 5,joanna.wojciechowska@gmail.com
+Irena Król,1961-09-13,61091327447,48543472763,Warszawa,Al. Wilanowska 27,irena.król@gmail.com
+Izabela Dąbrowska,1968-04-11,68041186666,48669724229,Łódź,Al. Stanów Zjednoczonych 97,izabela.dąbrowska@gmail.com
+Dawid Kozłowski,1953-06-15,53061518816,48639628682,Łódź,ul. Piotrkowska 1,dawid.kozłowski@gmail.com
+Danuta Adamczyk,1991-03-28,91032820803,48672751864,Kraków,Al. Krakowska 37,danuta.adamczyk@gmail.com
+Artur Szymański,1947-04-20,47042015852,48678272418,Gdańsk,Al. Krakowska 98,artur.szymański@gmail.com
+Maciej Wójcik,1988-11-19,88111932852,48630452849,Gdańsk,Al. Jerozolimskie 19,maciej.wójcik@gmail.com
+Danuta Wieczorek,1991-03-06,91030686300,48714744760,Łódź,ul. Jana Pawła II 80,danuta.wieczorek@gmail.com
+Damian Lewandowski,1971-02-07,71020783398,48578666745,Poznań,ul. Złota 35,damian.lewandowski@gmail.com
+Karol Majewski,1999-02-04,99020439255,48776932279,Poznań,Al. Wilanowska 82,karol.majewski@gmail.com
+Kajetan Sikora,1997-01-05,97010578012,48784181587,Kraków,Al. Wilanowska 6,kajetan.sikora@gmail.com
+Dagmara Jaworska,1979-07-09,79070948600,48757611503,Gdańsk,ul. Marszałkowska 6,dagmara.jaworska@gmail.com
+Halina Malinowska,1950-07-26,50072632843,48689143387,Warszawa,Al. Solidarności 41,halina.malinowska@gmail.com
+Amelia Kowalska,1958-03-14,58031492246,48726524811,Gdańsk,Al. Wilanowska 8,amelia.kowalska@gmail.com
+Danuta Nowak,1993-09-16,93091674762,48784412027,Łódź,ul. Mokotowska 1,danuta.nowak@gmail.com
+Barbara Wieczorek,1978-06-29,78062949564,48699797567,Łódź,ul. Złota 48,barbara.wieczorek@gmail.com
+Lidia Kamińska,1963-09-30,63093063620,48540471156,Kraków,Al. KEN 53,lidia.kamińska@gmail.com
+Emil Kowalski,1962-12-03,62120321636,48710999694,Gdańsk,ul. Złota 66,emil.kowalski@gmail.com
+Gabriela Lewandowska,1958-07-18,58071846346,48796347200,Poznań,Al. KEN 44,gabriela.lewandowska@gmail.com
+Bartłomiej Ostrowski,1940-11-19,40111974717,48781738285,Warszawa,Al. Prymasa Tysiąclecia 29,bartłomiej.ostrowski@gmail.com
+Franciszek Zając,1942-08-10,42081070077,48736124947,Poznań,ul. Marszałkowska 59,franciszek.zając@gmail.com
+Damian Adamczyk,1952-10-31,52103166239,48613384265,Gdańsk,Al. Solidarności 23,damian.adamczyk@gmail.com
+Amelia Jabłońska,1984-07-30,84073035329,48742302401,Kraków,Al. Niepodległości 76,amelia.jabłońska@gmail.com
+Laura Jaworska,1946-10-20,46102055764,48533690935,Gdańsk,ul. Chmielna 41,laura.jaworska@gmail.com
+Magdalena Dąbrowska,1997-04-03,97040381703,48758102272,Warszawa,ul. Świętokrzyska 25,magdalena.dąbrowska@gmail.com
+Karol Lewandowski,1943-04-10,43041001070,48811765582,Łódź,ul. Złota 28,karol.lewandowski@gmail.com
+Arkadiusz Zalewski,1998-01-19,98011939312,48514503033,Kraków,Al. Prymasa Tysiąclecia 27,arkadiusz.zalewski@gmail.com
+Hubert Majewski,2000-11-11,00311156458,48655579123,Gdańsk,ul. Grójecka 2,hubert.majewski@gmail.com
+Halina Adamczyk,1967-11-19,67111991168,48637101949,Warszawa,Al. Stanów Zjednoczonych 80,halina.adamczyk@gmail.com
+Agnieszka Wójcik,1982-05-26,82052651304,48803067735,Łódź,ul. Świętokrzyska 89,agnieszka.wójcik@gmail.com
+Kinga Walczak,1951-08-22,51082220381,48557613700,Warszawa,ul. Wspólna 84,kinga.walczak@gmail.com
+Kamila Jabłońska,2005-06-18,05261869061,48531372443,Poznań,Al. Zieleniecka 99,kamila.jabłońska@gmail.com
+Jadwiga Dudek,1987-05-14,87051448607,48617745531,Kraków,ul. Targowa 75,jadwiga.dudek@gmail.com
+Bogdan Kamiński,1950-06-21,50062100372,48652433889,Warszawa,Al. Wilanowska 38,bogdan.kamiński@gmail.com
+Kajetan Pietrzak,1943-08-04,43080420771,48674122606,Poznań,ul. Marszałkowska 47,kajetan.pietrzak@gmail.com
+Emilia Piotrowska,1978-05-14,78051419706,48635145329,Warszawa,Al. KEN 4,emilia.piotrowska@gmail.com
+Grzegorz Wójcik,1976-11-20,76112010758,48613241301,Łódź,Al. Krakowska 39,grzegorz.wójcik@gmail.com
+Irena Wieczorek,1953-05-20,53052008328,48546503105,Poznań,ul. Piotrkowska 45,irena.wieczorek@gmail.com
+Marta Sikora,1945-10-01,45100159609,48551878702,Łódź,Al. Krakowska 91,marta.sikora@gmail.com
+Janusz Witkowski,1955-07-15,55071548414,48713445124,Gdańsk,Al. Wilanowska 93,janusz.witkowski@gmail.com
+Janusz Kozłowski,1979-09-14,79091438658,48662410616,Gdańsk,Al. Zieleniecka 52,janusz.kozłowski@gmail.com
+Dawid Wójcik,2002-11-12,02311283134,48741582322,Warszawa,ul. Piotrkowska 53,dawid.wójcik@gmail.com
+Magdalena Mazur,1964-04-08,64040821047,48687780613,Poznań,ul. Chmielna 72,magdalena.mazur@gmail.com
+Grażyna Michalska,1976-02-14,76021419983,48814624564,Gdańsk,Al. Zieleniecka 69,grażyna.michalska@gmail.com
+Aneta Zalewska,1950-02-07,50020795701,48811261665,Warszawa,ul. Żwirki i Wigury 91,aneta.zalewska@gmail.com
+Hubert Grabowski,1999-02-12,99021287291,48785931287,Poznań,Al. Krakowska 75,hubert.grabowski@gmail.com
+Ireneusz Pawlak,1969-08-04,69080421154,48683167799,Łódź,ul. Chmielna 74,ireneusz.pawlak@gmail.com
+Hubert Jaworski,1956-04-11,56041106638,48582244820,Kraków,ul. Złota 32,hubert.jaworski@gmail.com
+Beata Witkowska,1993-06-15,93061521726,48745362106,Warszawa,ul. Krakowskie Przedmieście 75,beata.witkowska@gmail.com
+Ireneusz Pawlak,1977-01-03,77010359558,48522737048,Poznań,ul. Nowy Świat 81,ireneusz.pawlak@gmail.com
+Celina Walczak,1971-08-04,71080421966,48635074155,Gdańsk,Al. Zieleniecka 51,celina.walczak@gmail.com
+Amelia Zielińska,1975-10-31,75103127527,48708787154,Gdańsk,ul. Żwirki i Wigury 76,amelia.zielińska@gmail.com
+Magdalena Król,1993-12-30,93123098542,48683609948,Warszawa,Al. Jana III Sobieskiego 64,magdalena.król@gmail.com
+Edward Grabowski,1977-11-17,77111771952,48578488844,Warszawa,ul. Mokotowska 80,edward.grabowski@gmail.com
+Andrzej Górski,1953-12-16,53121646598,48554731317,Warszawa,ul. Krakowskie Przedmieście 37,andrzej.górski@gmail.com
+Grzegorz Dudek,1963-10-05,63100572570,48671134754,Poznań,Al. Krakowska 55,grzegorz.dudek@gmail.com
+Bożena Mazur,1984-06-16,84061633009,48659764333,Kraków,ul. Piotrkowska 11,bożena.mazur@gmail.com
+Mateusz Stępień,1961-11-02,61110274974,48796431140,Gdańsk,ul. Marszałkowska 80,mateusz.stępień@gmail.com
+Józef Pietrzak,1999-08-14,99081481554,48641944517,Łódź,Al. Wilanowska 58,józef.pietrzak@gmail.com
+Halina Kowalczyk,1998-04-25,98042542664,48641744724,Łódź,ul. Targowa 35,halina.kowalczyk@gmail.com
+Halina Wróbel,1974-11-01,74110176962,48674797303,Warszawa,Al. Wojska Polskiego 2,halina.wróbel@gmail.com
+Marianna Witkowska,1974-07-23,74072398804,48607909039,Kraków,ul. Krakowskie Przedmieście 70,marianna.witkowska@gmail.com
+Elżbieta Baran,1940-04-13,40041369502,48629155767,Warszawa,ul. Żwirki i Wigury 73,elżbieta.baran@gmail.com
+Maciej Walczak,1993-07-09,93070932935,48574632609,Gdańsk,Al. Krakowska 8,maciej.walczak@gmail.com
+Aleksandra Wójcik,1995-04-15,95041516843,48618268606,Kraków,Al. Krakowska 36,aleksandra.wójcik@gmail.com
+Beata Baran,1958-11-29,58112974384,48806332720,Warszawa,ul. Złota 23,beata.baran@gmail.com
+Monika Jabłońska,1940-05-22,40052247842,48727988674,Kraków,ul. Jana Pawła II 78,monika.jabłońska@gmail.com
+Dorota Krawczyk,2005-03-08,05230819606,48519078464,Łódź,Al. Stanów Zjednoczonych 35,dorota.krawczyk@gmail.com
+Maciej Wróblewski,1998-02-06,98020651151,48687732042,Warszawa,Al. Jana III Sobieskiego 21,maciej.wróblewski@gmail.com
+Henryk Jankowski,1982-08-30,82083016550,48523384608,Warszawa,ul. Targowa 25,henryk.jankowski@gmail.com
+Lucyna Jabłońska,1952-04-23,52042330100,48676388694,Poznań,Al. Prymasa Tysiąclecia 21,lucyna.jabłońska@gmail.com
+Kazimierz Kamiński,1943-05-10,43051083374,48724938272,Warszawa,Al. Prymasa Tysiąclecia 88,kazimierz.kamiński@gmail.com
+Anna Kaczmarek,1981-12-18,81121810804,48523545454,Łódź,ul. Krakowskie Przedmieście 42,anna.kaczmarek@gmail.com
+Lidia Olszewska,1945-01-21,45012169561,48760313220,Warszawa,Al. Wojska Polskiego 84,lidia.olszewska@gmail.com
+Emil Malinowski,1973-02-12,73021286993,48619018546,Łódź,Al. Armii Ludowej 89,emil.malinowski@gmail.com
+Kamila Pawłowska,1949-11-27,49112746749,48711093295,Gdańsk,ul. Puławska 22,kamila.pawłowska@gmail.com
+Jakub Nowak,1972-05-26,72052651251,48730270086,Gdańsk,ul. Świętokrzyska 99,jakub.nowak@gmail.com
+Bartłomiej Rutkowski,1945-04-07,45040713833,48533168517,Warszawa,ul. Mokotowska 88,bartłomiej.rutkowski@gmail.com
+Bożena Sikora,1959-07-04,59070439247,48560825285,Gdańsk,Al. Krakowska 99,bożena.sikora@gmail.com
+Kinga Sikora,1946-08-17,46081708026,48726706312,Kraków,Al. Jerozolimskie 35,kinga.sikora@gmail.com
+Janina Nowicka,1983-08-05,83080587809,48762347950,Kraków,Al. Jerozolimskie 54,janina.nowicka@gmail.com
+Arkadiusz Kaczmarek,1968-04-01,68040108115,48591083982,Gdańsk,Al. Armii Ludowej 51,arkadiusz.kaczmarek@gmail.com
+Joanna Król,1966-04-02,66040260583,48529131493,Kraków,ul. Grójecka 25,joanna.król@gmail.com
+Adam Dąbrowski,1973-05-12,73051267656,48804818025,Gdańsk,ul. Żwirki i Wigury 15,adam.dąbrowski@gmail.com
+Elżbieta Pawlak,1955-02-28,55022867964,48503281471,Warszawa,Al. Prymasa Tysiąclecia 21,elżbieta.pawlak@gmail.com
+Jarosław Woźniak,1961-06-19,61061910514,48663369709,Gdańsk,ul. Świętokrzyska 74,jarosław.woźniak@gmail.com
+Jerzy Wróblewski,1964-12-26,64122604711,48600833932,Kraków,Al. Krakowska 65,jerzy.wróblewski@gmail.com
+Filip Nowak,2004-01-02,04210264155,48604125254,Gdańsk,ul. Targowa 13,filip.nowak@gmail.com
+Celina Zielińska,1980-12-05,80120585100,48782386234,Gdańsk,ul. Złota 77,celina.zielińska@gmail.com
+Lucyna Nowak,1948-02-29,48022966566,48652537072,Warszawa,ul. Chmielna 92,lucyna.nowak@gmail.com
+Małgorzata Nowak,1991-01-15,91011597144,48643139166,Kraków,ul. Marszałkowska 45,małgorzata.nowak@gmail.com
+Nina Pietrzak,1951-11-05,51110550822,48791506647,Warszawa,ul. Puławska 64,nina.pietrzak@gmail.com
+Lidia Kowalska,1995-04-29,95042937564,48807683556,Kraków,Al. Zieleniecka 88,lidia.kowalska@gmail.com
+Janusz Wójcik,1988-06-06,88060620033,48717782834,Poznań,Al. Armii Ludowej 61,janusz.wójcik@gmail.com
+Julia Krawczyk,1948-11-26,48112663045,48553568868,Warszawa,Al. Krakowska 34,julia.krawczyk@gmail.com
+Beata Tomaszewska,1983-11-08,83110801608,48523748106,Łódź,ul. Długa 92,beata.tomaszewska@gmail.com
+Emilia Król,1999-07-10,99071072522,48767525129,Kraków,Al. Wilanowska 69,emilia.król@gmail.com
+Leon Dudek,1948-05-10,48051082873,48712742337,Kraków,ul. Złota 94,leon.dudek@gmail.com
+Jakub Wójcik,1944-03-14,44031449210,48813274213,Warszawa,Al. Prymasa Tysiąclecia 2,jakub.wójcik@gmail.com
+Danuta Kamińska,1941-06-16,41061647641,48656971986,Gdańsk,Al. Solidarności 34,danuta.kamińska@gmail.com
+Kinga Olszewska,2005-05-08,05250844428,48658232521,Łódź,Al. Krakowska 16,kinga.olszewska@gmail.com
+Aleksandra Jankowska,2006-09-13,06291389543,48599152644,Kraków,Al. Wojska Polskiego 13,aleksandra.jankowska@gmail.com
+Edward Wróbel,1975-07-20,75072023170,48775861823,Warszawa,Al. Rzeczypospolitej 93,edward.wróbel@gmail.com
+Czesława Sikora,1942-10-19,42101983484,48644481587,Gdańsk,Al. Niepodległości 26,czesława.sikora@gmail.com
+Czesława Olszewska,1979-01-29,79012938487,48605451997,Kraków,ul. Targowa 93,czesława.olszewska@gmail.com
+Adrian Sikora,1996-01-23,96012304113,48634301999,Kraków,ul. Piotrkowska 30,adrian.sikora@gmail.com
+Bogumiła Krawczyk,1986-10-23,86102314508,48804915128,Kraków,Al. Krakowska 58,bogumiła.krawczyk@gmail.com
+Ignacy Sikora,1979-12-30,79123022310,48584413681,Warszawa,Al. Wilanowska 34,ignacy.sikora@gmail.com
+Jacek Wiśniewski,1975-01-15,75011576437,48587641494,Warszawa,ul. Puławska 99,jacek.wiśniewski@gmail.com
+Mariusz Jaworski,1999-07-15,99071590712,48525253093,Kraków,ul. Długa 87,mariusz.jaworski@gmail.com
+Marianna Sikora,1943-04-20,43042056406,48738849420,Poznań,Al. Prymasa Tysiąclecia 45,marianna.sikora@gmail.com
+Hubert Wójcik,1958-07-15,58071562873,48720174829,Kraków,ul. Jana Pawła II 28,hubert.wójcik@gmail.com
+Daniel Kowalski,1999-05-22,99052240676,48733275172,Kraków,ul. Piotrkowska 89,daniel.kowalski@gmail.com
+Cezary Jaworski,1957-07-24,57072494633,48706453962,Kraków,ul. Wspólna 8,cezary.jaworski@gmail.com
+Dominik Tomaszewski,1977-05-01,77050117998,48735148614,Kraków,ul. Targowa 51,dominik.tomaszewski@gmail.com
+Elżbieta Tomaszewska,1976-08-22,76082285363,48709169660,Gdańsk,ul. Puławska 9,elżbieta.tomaszewska@gmail.com
+Ignacy Michalak,1959-06-08,59060803331,48552035423,Warszawa,ul. Krakowskie Przedmieście 27,ignacy.michalak@gmail.com
+Krystyna Piotrowska,1977-09-06,77090654521,48657611769,Warszawa,ul. Jana Pawła II 94,krystyna.piotrowska@gmail.com
+Henryk Kozłowski,1954-08-25,54082541694,48805753182,Poznań,Al. Stanów Zjednoczonych 70,henryk.kozłowski@gmail.com
+Alicja Wróbel,1944-03-11,44031177742,48664500954,Warszawa,Al. Solidarności 91,alicja.wróbel@gmail.com
+Monika Nowicka,1965-03-14,65031489262,48611365295,Łódź,Al. Jana III Sobieskiego 27,monika.nowicka@gmail.com
+Dagmara Nowakowska,1984-07-15,84071502546,48750966513,Gdańsk,ul. Grójecka 53,dagmara.nowakowska@gmail.com
+Grażyna Dudek,1969-12-17,69121732889,48660674593,Kraków,ul. Żwirki i Wigury 82,grażyna.dudek@gmail.com
+Cyprian Nowakowski,2003-03-11,03231174919,48586210471,Gdańsk,ul. Piotrkowska 85,cyprian.nowakowski@gmail.com
+Hubert Pietrzak,1996-10-22,96102280675,48569436575,Gdańsk,ul. Jana Pawła II 44,hubert.pietrzak@gmail.com
+Błażej Zalewski,1978-06-02,78060224474,48681205586,Kraków,Al. Zieleniecka 84,błażej.zalewski@gmail.com
+Eryk Nowak,2005-01-18,05211806157,48657911914,Warszawa,Al. Niepodległości 4,eryk.nowak@gmail.com
+Gabriela Wieczorek,1985-11-17,85111781264,48705305579,Poznań,Al. Wilanowska 34,gabriela.wieczorek@gmail.com
+Kazimierz Pawlak,1976-01-08,76010874298,48668527470,Gdańsk,Al. Jana III Sobieskiego 45,kazimierz.pawlak@gmail.com
+Izabela Walczak,1981-08-16,81081614920,48585840164,Warszawa,ul. Marszałkowska 99,izabela.walczak@gmail.com
+Kajetan Jabłoński,1942-07-05,42070561032,48574777580,Gdańsk,Al. Jerozolimskie 49,kajetan.jabłoński@gmail.com
+Karol Dąbrowski,1974-05-13,74051345676,48670473993,Kraków,Al. Stanów Zjednoczonych 95,karol.dąbrowski@gmail.com
+Dagmara Zając,1961-10-08,61100877800,48533164477,Kraków,ul. Chmielna 17,dagmara.zając@gmail.com
+Karol Król,1996-09-14,96091457476,48547013716,Kraków,ul. Długa 80,karol.król@gmail.com
+Maciej Kwiatkowski,1948-11-03,48110340511,48701827375,Gdańsk,ul. Świętokrzyska 17,maciej.kwiatkowski@gmail.com
+Dorota Walczak,1972-06-08,72060871148,48710480557,Poznań,ul. Piotrkowska 94,dorota.walczak@gmail.com
+Justyna Kozłowska,1987-02-21,87022179121,48700379995,Łódź,Al. Jerozolimskie 4,justyna.kozłowska@gmail.com
+Leon Krawczyk,1967-01-03,67010379272,48795514691,Warszawa,ul. Chmielna 5,leon.krawczyk@gmail.com
+Karol Nowakowski,1995-11-23,95112314112,48668983283,Warszawa,ul. Marszałkowska 20,karol.nowakowski@gmail.com
+Alicja Adamczyk,1954-11-18,54111863706,48508206343,Gdańsk,ul. Złota 95,alicja.adamczyk@gmail.com
+Edward Michalski,1976-07-30,76073063758,48735513374,Kraków,Al. Zieleniecka 55,edward.michalski@gmail.com
+Krystyna Michalska,1947-05-20,47052099721,48794224180,Gdańsk,ul. Piotrkowska 97,krystyna.michalska@gmail.com
+Bożena Kwiatkowska,1957-01-08,57010839429,48729517909,Poznań,Al. Rzeczypospolitej 92,bożena.kwiatkowska@gmail.com
+Hubert Ostrowski,1951-04-29,51042912378,48571619473,Poznań,Al. Rzeczypospolitej 46,hubert.ostrowski@gmail.com
+Anna Zając,1997-06-10,97061016660,48665363297,Łódź,Al. Armii Ludowej 56,anna.zając@gmail.com
+Jarosław Górski,1993-09-18,93091888411,48760627789,Gdańsk,Al. Wojska Polskiego 37,jarosław.górski@gmail.com
+Hanna Tomaszewska,1942-08-13,42081313523,48696603306,Warszawa,ul. Złota 69,hanna.tomaszewska@gmail.com
+Jarosław Wieczorek,1952-01-13,52011314793,48746357727,Poznań,ul. Chmielna 89,jarosław.wieczorek@gmail.com
+Kinga Sikora,2004-10-24,04302494721,48722852486,Łódź,ul. Chmielna 84,kinga.sikora@gmail.com
+Artur Mazur,1979-04-29,79042916376,48502385417,Warszawa,Al. Wilanowska 42,artur.mazur@gmail.com
+Mariusz Olszewski,1985-03-10,85031009855,48522170475,Warszawa,ul. Długa 4,mariusz.olszewski@gmail.com
+Janusz Rutkowski,1993-04-27,93042773137,48688922186,Łódź,ul. Puławska 85,janusz.rutkowski@gmail.com
+Lucyna Wróbel,1970-03-01,70030163981,48583153086,Gdańsk,Al. Krakowska 96,lucyna.wróbel@gmail.com
+Hanna Adamczyk,1977-10-24,77102413281,48673447031,Łódź,ul. Chmielna 45,hanna.adamczyk@gmail.com
+Mariusz Nowicki,2004-05-12,04251280570,48638865912,Kraków,ul. Puławska 43,mariusz.nowicki@gmail.com
+Bolesław Nowicki,2002-09-30,02293057534,48784517365,Kraków,Al. Jerozolimskie 24,bolesław.nowicki@gmail.com
+Lucyna Nowicka,1940-06-25,40062598789,48661263926,Kraków,Al. KEN 66,lucyna.nowicka@gmail.com
+Katarzyna Dąbrowska,2002-01-22,02212275689,48527555350,Łódź,Al. KEN 91,katarzyna.dąbrowska@gmail.com
+Barbara Zielińska,1989-03-26,89032675066,48547156184,Poznań,ul. Świętokrzyska 19,barbara.zielińska@gmail.com
+Cyprian Lewandowski,1956-12-30,56123099753,48700981939,Gdańsk,Al. Waszyngtona 22,cyprian.lewandowski@gmail.com
+Lidia Pietrzak,1990-06-06,90060686863,48753938199,Kraków,ul. Złota 94,lidia.pietrzak@gmail.com
+Ewa Majewska,1945-07-18,45071870240,48817745737,Kraków,ul. Nowy Świat 42,ewa.majewska@gmail.com
+Edward Jaworski,1984-03-09,84030995572,48757770673,Warszawa,Al. Krakowska 34,edward.jaworski@gmail.com
+Izabela Piotrowska,1967-11-24,67112402685,48609329454,Łódź,ul. Nowy Świat 48,izabela.piotrowska@gmail.com
+Janusz Wieczorek,1940-12-23,40122370155,48674644618,Poznań,ul. Krakowskie Przedmieście 12,janusz.wieczorek@gmail.com
+Gabriela Ostrowska,2004-12-12,04321222147,48513483572,Poznań,ul. Marszałkowska 54,gabriela.ostrowska@gmail.com
+Kajetan Jabłoński,1944-01-04,44010423934,48733881689,Warszawa,ul. Krakowskie Przedmieście 50,kajetan.jabłoński@gmail.com
+Hanna Zając,1971-01-23,71012331840,48816238901,Poznań,Al. Wilanowska 67,hanna.zając@gmail.com
+Janina Ostrowska,1972-09-07,72090747745,48813757717,Warszawa,ul. Nowy Świat 18,janina.ostrowska@gmail.com
+Jacek Krawczyk,1949-12-10,49121062997,48683611299,Warszawa,Al. Rzeczypospolitej 31,jacek.krawczyk@gmail.com
+Dawid Sikora,1947-11-04,47110452158,48791171311,Kraków,Al. Zieleniecka 3,dawid.sikora@gmail.com
+Beata Walczak,1954-03-09,54030915106,48581172495,Poznań,Al. Jana III Sobieskiego 74,beata.walczak@gmail.com
+Bogdan Kowalczyk,1956-09-16,56091648373,48716184085,Warszawa,Al. KEN 36,bogdan.kowalczyk@gmail.com
+Jan Pietrzak,1999-08-14,99081478176,48582255271,Poznań,Al. Zieleniecka 67,jan.pietrzak@gmail.com
+Janusz Kamiński,1967-05-06,67050624178,48598365439,Kraków,ul. Długa 71,janusz.kamiński@gmail.com
+Kacper Wróbel,1940-12-08,40120890813,48760424046,Poznań,ul. Krakowskie Przedmieście 73,kacper.wróbel@gmail.com
+Hubert Lewandowski,1979-03-27,79032744972,48622662050,Łódź,ul. Świętokrzyska 8,hubert.lewandowski@gmail.com
+Jerzy Woźniak,1959-10-14,59101451035,48709315566,Łódź,ul. Chmielna 36,jerzy.woźniak@gmail.com
+Hubert Wieczorek,2003-06-12,03261239554,48803905870,Warszawa,Al. Rzeczypospolitej 22,hubert.wieczorek@gmail.com
+Dagmara Witkowska,1953-10-26,53102622083,48758734485,Łódź,Al. Solidarności 35,dagmara.witkowska@gmail.com
+Dariusz Tomaszewski,1943-02-12,43021213978,48783330943,Gdańsk,ul. Złota 6,dariusz.tomaszewski@gmail.com
+Irena Kowalczyk,1956-06-14,56061413181,48737295379,Kraków,Al. Solidarności 54,irena.kowalczyk@gmail.com
+Irena Wieczorek,1952-08-24,52082459168,48641414988,Kraków,ul. Chmielna 30,irena.wieczorek@gmail.com
+Cezary Tomaszewski,1990-04-08,90040891733,48819315073,Kraków,ul. Marszałkowska 61,cezary.tomaszewski@gmail.com
+Dariusz Pawlak,1987-03-01,87030111272,48709008917,Gdańsk,ul. Targowa 12,dariusz.pawlak@gmail.com
+Adrian Majewski,1985-07-31,85073138692,48541931675,Gdańsk,ul. Złota 33,adrian.majewski@gmail.com
+Jarosław Malinowski,1943-11-29,43112904457,48591747522,Gdańsk,Al. Jana III Sobieskiego 1,jarosław.malinowski@gmail.com
+Barbara Wróbel,1973-11-22,73112248482,48800191176,Łódź,Al. Krakowska 24,barbara.wróbel@gmail.com
+Antoni Stępień,1947-06-03,47060312755,48516978348,Gdańsk,Al. Jana III Sobieskiego 48,antoni.stępień@gmail.com
+Bożena Kozłowska,1958-11-06,58110668829,48778745408,Łódź,ul. Puławska 91,bożena.kozłowska@gmail.com
+Cezary Dąbrowski,1982-09-14,82091427654,48645963799,Łódź,Al. Wojska Polskiego 92,cezary.dąbrowski@gmail.com
+Joanna Nowak,1972-03-30,72033043767,48643813046,Łódź,ul. Chmielna 59,joanna.nowak@gmail.com
+Bartłomiej Wiśniewski,1985-03-20,85032054915,48674182319,Kraków,ul. Wspólna 96,bartłomiej.wiśniewski@gmail.com
+Arkadiusz Walczak,1999-07-14,99071447434,48741097500,Warszawa,Al. Niepodległości 100,arkadiusz.walczak@gmail.com
+Grzegorz Walczak,1979-02-09,79020993612,48719872334,Łódź,ul. Jana Pawła II 87,grzegorz.walczak@gmail.com
+Aleksander Zając,1968-02-08,68020841155,48603282125,Łódź,ul. Nowy Świat 91,aleksander.zając@gmail.com
+Izabela Kaczmarek,2003-03-08,03230819084,48536888138,Łódź,ul. Targowa 45,izabela.kaczmarek@gmail.com
+Joanna Szymańska,1943-09-18,43091831285,48617466682,Łódź,Al. KEN 60,joanna.szymańska@gmail.com
+Cyprian Majewski,1960-06-22,60062277390,48632659893,Kraków,ul. Grójecka 76,cyprian.majewski@gmail.com
+Nina Wojciechowska,1972-09-20,72092086561,48601659885,Gdańsk,Al. Jana III Sobieskiego 92,nina.wojciechowska@gmail.com
+Dariusz Górski,1974-08-02,74080259052,48728359336,Poznań,Al. Niepodległości 12,dariusz.górski@gmail.com
+Ewa Wieczorek,1975-02-16,75021683183,48594868988,Warszawa,ul. Chmielna 46,ewa.wieczorek@gmail.com
+Helena Wojciechowska,1950-06-14,50061422563,48548861031,Gdańsk,ul. Marszałkowska 65,helena.wojciechowska@gmail.com
+Helena Szewczyk,1964-11-01,64110124362,48718600924,Warszawa,Al. Jana III Sobieskiego 34,helena.szewczyk@gmail.com
+Jan Zając,1948-01-22,48012228399,48774183727,Poznań,Al. KEN 50,jan.zając@gmail.com
+Justyna Malinowska,1960-01-04,60010406443,48540805878,Łódź,ul. Złota 89,justyna.malinowska@gmail.com
+Małgorzata Kowalczyk,1944-09-15,44091568065,48812601883,Kraków,ul. Krakowskie Przedmieście 10,małgorzata.kowalczyk@gmail.com
+Marian Jaworski,1995-05-20,95052069952,48504097708,Łódź,Al. Jana III Sobieskiego 1,marian.jaworski@gmail.com
+Natalia Wojciechowska,2000-05-13,00251306205,48506798992,Kraków,Al. Rzeczypospolitej 94,natalia.wojciechowska@gmail.com
+Aleksandra Adamczyk,1973-08-19,73081924325,48555475317,Poznań,Al. Solidarności 78,aleksandra.adamczyk@gmail.com
+Hubert Nowak,1968-11-11,68111144631,48543228825,Łódź,Al. Rzeczypospolitej 59,hubert.nowak@gmail.com
+Cyprian Kaczmarek,1969-03-20,69032069913,48537167601,Warszawa,ul. Targowa 46,cyprian.kaczmarek@gmail.com
+Edyta Wiśniewska,1979-08-13,79081354324,48781180715,Łódź,Al. Rzeczypospolitej 38,edyta.wiśniewska@gmail.com
+Eryk Kwiatkowski,1984-10-18,84101893398,48680420136,Gdańsk,Al. Jana III Sobieskiego 17,eryk.kwiatkowski@gmail.com
+Bartosz Zając,1986-12-21,86122108118,48637759827,Gdańsk,ul. Grójecka 38,bartosz.zając@gmail.com
+Dariusz Grabowski,1974-04-28,74042807617,48801251441,Łódź,Al. Solidarności 31,dariusz.grabowski@gmail.com
+Ireneusz Lewandowski,1985-04-07,85040785979,48689512888,Kraków,Al. Rzeczypospolitej 87,ireneusz.lewandowski@gmail.com
+Cezary Wróbel,1960-07-26,60072694590,48717497084,Kraków,ul. Piotrkowska 68,cezary.wróbel@gmail.com
+Jolanta Nowak,1952-05-18,52051831146,48644120189,Kraków,ul. Nowy Świat 38,jolanta.nowak@gmail.com
+Bogdan Rutkowski,1953-02-06,53020652878,48550164285,Łódź,ul. Marszałkowska 99,bogdan.rutkowski@gmail.com
+Cyprian Grabowski,2006-11-11,06311114111,48688962620,Warszawa,ul. Złota 21,cyprian.grabowski@gmail.com
+Janina Wróblewska,1955-03-25,55032555921,48804140963,Poznań,Al. Prymasa Tysiąclecia 69,janina.wróblewska@gmail.com
+Jakub Szymański,1951-03-20,51032047095,48596523791,Gdańsk,Al. Wilanowska 75,jakub.szymański@gmail.com
+Bartosz Wróblewski,1993-03-17,93031746490,48672024125,Poznań,Al. Prymasa Tysiąclecia 92,bartosz.wróblewski@gmail.com
+Kajetan Tomaszewski,1995-06-23,95062350013,48538700408,Kraków,ul. Piotrkowska 28,kajetan.tomaszewski@gmail.com
+Natalia Mazur,1979-12-17,79121765385,48672157682,Gdańsk,Al. Wojska Polskiego 65,natalia.mazur@gmail.com
+Helena Król,1951-08-24,51082498087,48611125068,Warszawa,ul. Wspólna 39,helena.król@gmail.com
+Edyta Baran,1968-03-26,68032634945,48801629474,Gdańsk,ul. Wspólna 90,edyta.baran@gmail.com
+Emil Dudek,1976-04-12,76041242815,48807073401,Gdańsk,ul. Chmielna 43,emil.dudek@gmail.com
+Daniel Górski,1970-03-05,70030512198,48654812312,Kraków,ul. Długa 56,daniel.górski@gmail.com
+Eryk Wieczorek,2002-06-01,02260145093,48584505945,Łódź,Al. Waszyngtona 53,eryk.wieczorek@gmail.com
+Artur Ostrowski,1942-01-26,42012617414,48692814003,Łódź,Al. Stanów Zjednoczonych 88,artur.ostrowski@gmail.com
+Janusz Kwiatkowski,1947-12-14,47121406812,48620949089,Łódź,ul. Nowy Świat 17,janusz.kwiatkowski@gmail.com
+Justyna Górska,1975-07-23,75072377606,48708297200,Kraków,Al. Niepodległości 59,justyna.górska@gmail.com
+Janina Jaworska,1966-10-05,66100532906,48655226198,Kraków,Al. Jana III Sobieskiego 13,janina.jaworska@gmail.com
+Filip Michalak,1994-07-11,94071153857,48678565345,Kraków,ul. Świętokrzyska 99,filip.michalak@gmail.com
+Jerzy Majewski,1959-08-06,59080656894,48704293787,Łódź,Al. Waszyngtona 48,jerzy.majewski@gmail.com
+Maciej Mazur,1959-11-23,59112393018,48739178927,Kraków,Al. Armii Ludowej 54,maciej.mazur@gmail.com
+Jadwiga Dudek,1946-08-11,46081108383,48636658287,Łódź,Al. Zieleniecka 47,jadwiga.dudek@gmail.com
+Natalia Pawlak,1971-11-25,71112518206,48687142351,Poznań,ul. Świętokrzyska 89,natalia.pawlak@gmail.com
+Edyta Jabłońska,1963-07-10,63071022849,48601311075,Łódź,ul. Chmielna 91,edyta.jabłońska@gmail.com
+Halina Grabowska,1976-06-22,76062208285,48694630784,Poznań,Al. Stanów Zjednoczonych 11,halina.grabowska@gmail.com
+Karolina Krawczyk,1969-08-12,69081245647,48569300304,Warszawa,Al. Jerozolimskie 4,karolina.krawczyk@gmail.com
+Julia Adamczyk,1943-07-03,43070307064,48661307440,Łódź,ul. Długa 10,julia.adamczyk@gmail.com
+Bogdan Majewski,1987-11-23,87112395334,48619536987,Warszawa,Al. Jerozolimskie 97,bogdan.majewski@gmail.com
+Gabriel Jankowski,1969-02-05,69020504572,48541794226,Kraków,ul. Grójecka 41,gabriel.jankowski@gmail.com
+Jolanta Dudek,1964-04-20,64042099765,48782196668,Łódź,ul. Nowy Świat 6,jolanta.dudek@gmail.com
+Eryk Rutkowski,1982-08-06,82080683157,48688534990,Łódź,Al. Stanów Zjednoczonych 58,eryk.rutkowski@gmail.com
+Julia Sikora,1979-03-06,79030684788,48515405787,Warszawa,ul. Marszałkowska 11,julia.sikora@gmail.com
+Emilia Wojciechowska,1970-04-08,70040811403,48653333561,Gdańsk,ul. Puławska 21,emilia.wojciechowska@gmail.com
+Izabela Woźniak,2003-04-11,03241127383,48804114462,Kraków,Al. Prymasa Tysiąclecia 10,izabela.woźniak@gmail.com
+Anita Piotrowska,1946-07-02,46070282340,48660948053,Poznań,ul. Świętokrzyska 5,anita.piotrowska@gmail.com
+Jan Pawłowski,1977-11-05,77110546559,48754837396,Kraków,ul. Żwirki i Wigury 75,jan.pawłowski@gmail.com
+Helena Kamińska,2004-05-03,04250323221,48502953592,Warszawa,ul. Świętokrzyska 99,helena.kamińska@gmail.com
+Helena Grabowska,1992-11-03,92110309221,48612460898,Gdańsk,Al. Wilanowska 47,helena.grabowska@gmail.com
+Jolanta Krawczyk,1940-01-24,40012469468,48516067011,Poznań,Al. Zieleniecka 95,jolanta.krawczyk@gmail.com
+Bartosz Adamczyk,1950-04-08,50040869170,48710683866,Gdańsk,ul. Nowy Świat 39,bartosz.adamczyk@gmail.com
+Grażyna Wójcik,1991-07-10,91071007148,48797816353,Kraków,ul. Złota 76,grażyna.wójcik@gmail.com
+Gabriel Kowalski,1984-04-01,84040113830,48522074334,Łódź,ul. Wspólna 56,gabriel.kowalski@gmail.com
+Aleksander Kwiatkowski,1984-09-25,84092555910,48736682168,Warszawa,Al. Jana III Sobieskiego 83,aleksander.kwiatkowski@gmail.com
+Lidia Wojciechowska,1996-11-19,96111957889,48650709512,Poznań,ul. Piotrkowska 5,lidia.wojciechowska@gmail.com
+Edyta Grabowska,2004-07-05,04270553363,48726672133,Łódź,ul. Chmielna 15,edyta.grabowska@gmail.com
+Alicja Kaczmarek,1993-01-28,93012884043,48507169424,Warszawa,ul. Krakowskie Przedmieście 77,alicja.kaczmarek@gmail.com
+Celina Krawczyk,1976-11-12,76111240721,48638607307,Gdańsk,Al. Jana III Sobieskiego 68,celina.krawczyk@gmail.com
+Jerzy Górski,1986-10-10,86101021195,48799502057,Warszawa,Al. Rzeczypospolitej 92,jerzy.górski@gmail.com
+Henryk Mazur,1975-11-29,75112919470,48651083993,Łódź,ul. Nowy Świat 42,henryk.mazur@gmail.com
+Karolina Michalska,1952-08-04,52080409868,48647583320,Gdańsk,ul. Żwirki i Wigury 62,karolina.michalska@gmail.com
+Julia Stępień,2000-08-24,00282494261,48666620371,Gdańsk,Al. Armii Ludowej 81,julia.stępień@gmail.com
+Gabriel Kozłowski,1949-04-20,49042064171,48787088813,Gdańsk,ul. Targowa 50,gabriel.kozłowski@gmail.com
+Józef Malinowski,1978-01-25,78012559373,48790085283,Kraków,Al. Jerozolimskie 23,józef.malinowski@gmail.com
+Alicja Wróbel,1988-09-30,88093025968,48779666103,Gdańsk,Al. Rzeczypospolitej 4,alicja.wróbel@gmail.com
+Justyna Olszewska,1993-12-11,93121164821,48539275745,Gdańsk,Al. Prymasa Tysiąclecia 69,justyna.olszewska@gmail.com
+Nina Tomaszewska,1988-02-19,88021978629,48506509382,Gdańsk,ul. Mokotowska 71,nina.tomaszewska@gmail.com
+Eryk Kaczmarek,1969-08-01,69080113114,48511610229,Poznań,ul. Złota 60,eryk.kaczmarek@gmail.com
+Bartosz Nowak,1988-12-21,88122169654,48533609420,Kraków,Al. Niepodległości 76,bartosz.nowak@gmail.com
+Jerzy Witkowski,1982-01-24,82012416354,48766347624,Łódź,Al. Wilanowska 67,jerzy.witkowski@gmail.com
+Dawid Michalski,1971-09-17,71091769653,48619229828,Gdańsk,Al. Armii Ludowej 31,dawid.michalski@gmail.com
+Krzysztof Rutkowski,1989-07-20,89072014052,48692609355,Gdańsk,Al. Krakowska 33,krzysztof.rutkowski@gmail.com
+Marianna Wieczorek,2000-06-21,00262102849,48620615423,Łódź,Al. Jerozolimskie 61,marianna.wieczorek@gmail.com
+Arkadiusz Adamczyk,1948-02-01,48020153191,48683726103,Gdańsk,Al. Wilanowska 25,arkadiusz.adamczyk@gmail.com
+Bolesław Michalak,1952-07-09,52070942577,48766934296,Kraków,ul. Mokotowska 91,bolesław.michalak@gmail.com
+Jadwiga Jankowska,1967-03-13,67031382385,48530454118,Gdańsk,Al. Niepodległości 13,jadwiga.jankowska@gmail.com
+Edward Kozłowski,1970-04-22,70042274738,48579833005,Poznań,ul. Wspólna 36,edward.kozłowski@gmail.com
+Maciej Piotrowski,1960-12-01,60120140992,48741247241,Gdańsk,ul. Targowa 28,maciej.piotrowski@gmail.com
+Arkadiusz Jaworski,1960-01-05,60010584091,48741242200,Gdańsk,Al. KEN 62,arkadiusz.jaworski@gmail.com
+Dawid Lewandowski,1962-02-28,62022856333,48636316162,Gdańsk,Al. Niepodległości 24,dawid.lewandowski@gmail.com
+Natalia Dudek,1947-11-05,47110506109,48609139531,Kraków,ul. Puławska 96,natalia.dudek@gmail.com
+Kajetan Nowakowski,1954-09-30,54093042379,48764323862,Gdańsk,Al. Krakowska 1,kajetan.nowakowski@gmail.com
+Anita Wiśniewska,1982-11-29,82112927240,48639371734,Warszawa,Al. Jerozolimskie 43,anita.wiśniewska@gmail.com
+Dorota Dudek,1981-11-11,81111171681,48685354754,Warszawa,ul. Marszałkowska 31,dorota.dudek@gmail.com
+Hanna Kaczmarek,1998-09-07,98090740946,48754463976,Łódź,Al. Jana III Sobieskiego 36,hanna.kaczmarek@gmail.com
+Jacek Krawczyk,1947-10-05,47100514451,48590762640,Poznań,ul. Jana Pawła II 45,jacek.krawczyk@gmail.com
+Helena Górska,1970-06-03,70060347269,48611286389,Łódź,Al. Armii Ludowej 26,helena.górska@gmail.com
+Marek Wróbel,1973-02-28,73022806839,48525596779,Łódź,Al. Waszyngtona 92,marek.wróbel@gmail.com
+Adrian Mazur,1975-02-27,75022772192,48632073948,Łódź,ul. Jana Pawła II 85,adrian.mazur@gmail.com
+Grzegorz Michalski,1975-06-08,75060839558,48606865668,Warszawa,Al. Stanów Zjednoczonych 89,grzegorz.michalski@gmail.com
+Bartosz Tomaszewski,1999-03-14,99031411930,48538154388,Poznań,ul. Grójecka 47,bartosz.tomaszewski@gmail.com
+Lidia Wróblewska,1977-02-26,77022646187,48707096063,Warszawa,Al. Prymasa Tysiąclecia 35,lidia.wróblewska@gmail.com
+Julia Kozłowska,1978-06-24,78062493988,48657767875,Kraków,ul. Puławska 22,julia.kozłowska@gmail.com
+Lidia Mazur,1973-09-11,73091112721,48608494312,Gdańsk,Al. Krakowska 68,lidia.mazur@gmail.com
+Janina Witkowska,1987-07-05,87070589808,48635773415,Kraków,ul. Krakowskie Przedmieście 13,janina.witkowska@gmail.com
+Mateusz Król,1964-10-02,64100272835,48512325381,Łódź,Al. Krakowska 24,mateusz.król@gmail.com
+Laura Majewska,1977-02-27,77022769183,48676887754,Gdańsk,ul. Żwirki i Wigury 40,laura.majewska@gmail.com
+Agnieszka Dudek,1992-07-17,92071786345,48602003830,Warszawa,Al. Wilanowska 58,agnieszka.dudek@gmail.com
+Łukasz Walczak,1978-09-19,78091913976,48720434009,Łódź,Al. Wojska Polskiego 38,łukasz.walczak@gmail.com
+Maria Król,1955-01-29,55012970447,48558950983,Łódź,Al. Niepodległości 36,maria.król@gmail.com
+Kajetan Mazur,1973-11-10,73111070916,48710578180,Kraków,Al. Prymasa Tysiąclecia 12,kajetan.mazur@gmail.com
+Edyta Witkowska,1940-05-16,40051651428,48626875563,Gdańsk,ul. Wspólna 66,edyta.witkowska@gmail.com
+Małgorzata Wróbel,1962-10-29,62102932126,48721316498,Poznań,ul. Długa 2,małgorzata.wróbel@gmail.com
+Bogdan Wiśniewski,2004-01-19,04211995252,48560607733,Warszawa,ul. Złota 12,bogdan.wiśniewski@gmail.com
+Bartosz Witkowski,1964-01-07,64010795493,48707157078,Gdańsk,ul. Marszałkowska 72,bartosz.witkowski@gmail.com
+Danuta Wróbel,1990-11-03,90110305063,48645468881,Gdańsk,Al. Jana III Sobieskiego 77,danuta.wróbel@gmail.com
+Joanna Jankowska,1981-07-09,81070954787,48753290324,Warszawa,Al. Rzeczypospolitej 18,joanna.jankowska@gmail.com
+Justyna Olszewska,1963-03-16,63031617924,48624470188,Gdańsk,ul. Piotrkowska 42,justyna.olszewska@gmail.com
+Agnieszka Jankowska,1988-07-08,88070863828,48777949950,Kraków,ul. Krakowskie Przedmieście 91,agnieszka.jankowska@gmail.com
+Dariusz Tomaszewski,1956-12-26,56122643717,48740829329,Kraków,Al. Wojska Polskiego 23,dariusz.tomaszewski@gmail.com
+Cezary Dąbrowski,1974-09-24,74092415998,48568574822,Łódź,ul. Mokotowska 86,cezary.dąbrowski@gmail.com
+Halina Woźniak,1968-01-27,68012747762,48564245309,Warszawa,ul. Chmielna 42,halina.woźniak@gmail.com
+Grażyna Dudek,1947-07-22,47072242428,48644972458,Gdańsk,Al. Rzeczypospolitej 62,grażyna.dudek@gmail.com
+Łukasz Ostrowski,1978-02-20,78022024955,48751923051,Łódź,Al. Solidarności 41,łukasz.ostrowski@gmail.com
+Alicja Wiśniewska,1971-04-15,71041576982,48656885408,Gdańsk,ul. Puławska 83,alicja.wiśniewska@gmail.com
+Magdalena Wróblewska,1966-03-24,66032411924,48752698429,Warszawa,Al. Prymasa Tysiąclecia 20,magdalena.wróblewska@gmail.com
+Hanna Nowicka,1943-03-27,43032700106,48768584872,Łódź,Al. Wilanowska 29,hanna.nowicka@gmail.com
+Marian Sikora,1981-08-13,81081337058,48798698929,Gdańsk,ul. Krakowskie Przedmieście 63,marian.sikora@gmail.com
+Irena Krawczyk,1992-12-22,92122252467,48809331999,Gdańsk,Al. KEN 65,irena.krawczyk@gmail.com
+Lech Wróbel,1999-09-07,99090737312,48533283490,Kraków,Al. Solidarności 48,lech.wróbel@gmail.com
+Grzegorz Krawczyk,1970-12-22,70122266493,48588397760,Warszawa,Al. Wilanowska 68,grzegorz.krawczyk@gmail.com
+Izabela Sikora,2003-06-08,03260802322,48633072315,Warszawa,Al. Wojska Polskiego 27,izabela.sikora@gmail.com
+Barbara Kamińska,1966-04-03,66040390589,48728987990,Gdańsk,Al. Rzeczypospolitej 34,barbara.kamińska@gmail.com
+Ignacy Zieliński,1952-12-31,52123193879,48543937808,Warszawa,Al. Rzeczypospolitej 64,ignacy.zieliński@gmail.com
+Lucyna Szewczyk,1987-05-31,87053107861,48725745566,Warszawa,ul. Grójecka 65,lucyna.szewczyk@gmail.com
+Julia Jaworska,1972-03-03,72030321428,48585265795,Gdańsk,Al. Armii Ludowej 76,julia.jaworska@gmail.com
+Aleksandra Wójcik,1982-06-02,82060252805,48689599923,Łódź,ul. Piotrkowska 37,aleksandra.wójcik@gmail.com
+Dorota Baran,1954-03-03,54030356923,48621108315,Poznań,ul. Wspólna 15,dorota.baran@gmail.com
+Helena Wojciechowska,2002-02-17,02221701742,48705143906,Kraków,Al. Krakowska 72,helena.wojciechowska@gmail.com
+Helena Szymańska,1962-12-29,62122991200,48790405694,Kraków,ul. Targowa 9,helena.szymańska@gmail.com
+Grzegorz Dąbrowski,1957-12-01,57120176751,48809622455,Warszawa,Al. Armii Ludowej 12,grzegorz.dąbrowski@gmail.com
+Dagmara Majewska,1956-06-10,56061088028,48739023776,Łódź,ul. Chmielna 89,dagmara.majewska@gmail.com
+Dagmara Kowalska,1950-06-12,50061250269,48529442470,Warszawa,Al. Prymasa Tysiąclecia 33,dagmara.kowalska@gmail.com
+Kacper Nowicki,1999-04-14,99041462395,48639480996,Gdańsk,ul. Marszałkowska 7,kacper.nowicki@gmail.com
+Laura Krawczyk,1955-05-20,55052041167,48670820668,Łódź,ul. Chmielna 24,laura.krawczyk@gmail.com
+Aneta Krawczyk,1942-07-25,42072563544,48593993901,Łódź,ul. Grójecka 33,aneta.krawczyk@gmail.com
+Monika Lewandowska,2005-02-13,05221316286,48585990175,Warszawa,Al. KEN 22,monika.lewandowska@gmail.com
+Aleksandra Pietrzak,1954-04-29,54042956269,48566496987,Warszawa,ul. Chmielna 77,aleksandra.pietrzak@gmail.com
+Dorota Nowicka,1959-03-23,59032386086,48551016482,Warszawa,Al. KEN 66,dorota.nowicka@gmail.com
+Ewa Król,1975-11-26,75112613466,48652915759,Łódź,Al. Jerozolimskie 65,ewa.król@gmail.com
+Cezary Wróblewski,1985-05-25,85052568698,48653432634,Gdańsk,Al. Wilanowska 93,cezary.wróblewski@gmail.com
+Amelia Tomaszewska,1967-09-20,67092029081,48511750294,Warszawa,Al. Krakowska 16,amelia.tomaszewska@gmail.com
+Emilia Malinowska,1983-11-10,83111023081,48633717117,Kraków,Al. Zieleniecka 91,emilia.malinowska@gmail.com
+Arkadiusz Zieliński,1986-05-17,86051748335,48671636532,Łódź,ul. Piotrkowska 46,arkadiusz.zieliński@gmail.com
+Celina Witkowska,1953-07-11,53071118482,48706904797,Kraków,ul. Grójecka 95,celina.witkowska@gmail.com
+Marian Malinowski,1958-05-31,58053138656,48694115006,Warszawa,ul. Targowa 24,marian.malinowski@gmail.com
+Danuta Mazur,1975-08-28,75082826248,48666812885,Poznań,Al. Prymasa Tysiąclecia 6,danuta.mazur@gmail.com
+Grzegorz Sikora,1948-03-06,48030684333,48774452593,Gdańsk,ul. Długa 66,grzegorz.sikora@gmail.com
+Jerzy Wróbel,1965-10-01,65100125635,48717009340,Łódź,ul. Świętokrzyska 43,jerzy.wróbel@gmail.com
+Gabriela Jankowska,1993-11-02,93110298005,48586379224,Gdańsk,ul. Grójecka 91,gabriela.jankowska@gmail.com
+Małgorzata Zalewska,1984-10-24,84102445846,48633955993,Poznań,Al. Jerozolimskie 73,małgorzata.zalewska@gmail.com
+Arkadiusz Wróbel,1999-05-27,99052798537,48705288148,Warszawa,ul. Wspólna 4,arkadiusz.wróbel@gmail.com
+Bogumiła Dudek,1956-04-15,56041595663,48649635871,Gdańsk,ul. Targowa 58,bogumiła.dudek@gmail.com
+Grzegorz Dudek,1985-10-05,85100519816,48511788099,Kraków,Al. Jana III Sobieskiego 65,grzegorz.dudek@gmail.com
+Amelia Dąbrowska,1951-04-23,51042338989,48668183167,Warszawa,ul. Wspólna 71,amelia.dąbrowska@gmail.com
+Mateusz Pietrzak,1992-04-15,92041570530,48628429850,Poznań,ul. Marszałkowska 23,mateusz.pietrzak@gmail.com
+Izabela Zielińska,1985-01-20,85012048662,48697717146,Łódź,Al. Zieleniecka 23,izabela.zielińska@gmail.com
+Dawid Woźniak,1970-05-20,70052010894,48533382864,Łódź,ul. Marszałkowska 6,dawid.woźniak@gmail.com
+Gabriel Pawłowski,1996-07-31,96073190193,48641323193,Warszawa,Al. Stanów Zjednoczonych 41,gabriel.pawłowski@gmail.com
+Lech Pawłowski,1975-05-08,75050888278,48800333918,Poznań,ul. Krakowskie Przedmieście 98,lech.pawłowski@gmail.com
+Barbara Dudek,1965-12-10,65121053421,48528763437,Poznań,Al. Krakowska 34,barbara.dudek@gmail.com
+Joanna Olszewska,1952-05-27,52052798167,48630836292,Łódź,Al. Solidarności 37,joanna.olszewska@gmail.com
+Filip Walczak,1971-06-10,71061049679,48705437188,Warszawa,ul. Krakowskie Przedmieście 30,filip.walczak@gmail.com
+Krystyna Nowicka,1952-12-18,52121863840,48813908313,Poznań,ul. Grójecka 58,krystyna.nowicka@gmail.com
+Kazimiera Zielińska,1962-02-26,62022690182,48815205736,Kraków,ul. Marszałkowska 98,kazimiera.zielińska@gmail.com
+Joanna Wiśniewska,1977-09-05,77090550247,48814477490,Gdańsk,Al. Wilanowska 11,joanna.wiśniewska@gmail.com
+Beata Kwiatkowska,2002-09-26,02292601048,48651307088,Warszawa,Al. KEN 10,beata.kwiatkowska@gmail.com
+Anna Wróblewska,1971-08-08,71080882765,48740784032,Warszawa,ul. Chmielna 46,anna.wróblewska@gmail.com
+Celina Pawlak,1985-08-31,85083118949,48612856603,Łódź,Al. Zieleniecka 78,celina.pawlak@gmail.com
+Anita Górska,1966-10-06,66100627608,48789699507,Kraków,ul. Nowy Świat 80,anita.górska@gmail.com
+Marianna Nowak,1986-02-27,86022773427,48691347534,Warszawa,ul. Grójecka 23,marianna.nowak@gmail.com
+Adam Malinowski,1942-02-25,42022597115,48696944696,Gdańsk,Al. Waszyngtona 39,adam.malinowski@gmail.com
+Nina Malinowska,1990-10-17,90101705342,48653268749,Warszawa,Al. Prymasa Tysiąclecia 33,nina.malinowska@gmail.com
+Ireneusz Zając,2006-06-11,06261192733,48597436973,Warszawa,ul. Targowa 90,ireneusz.zając@gmail.com
+Eryk Olszewski,1958-09-07,58090792497,48534443570,Kraków,ul. Jana Pawła II 13,eryk.olszewski@gmail.com
+Marta Dudek,1954-06-05,54060557501,48520488493,Kraków,ul. Nowy Świat 61,marta.dudek@gmail.com
+Czesława Król,2001-12-02,01320230667,48794672627,Łódź,Al. Prymasa Tysiąclecia 88,czesława.król@gmail.com
+Marta Zielińska,1966-01-15,66011567389,48786710344,Warszawa,ul. Marszałkowska 59,marta.zielińska@gmail.com
+Helena Majewska,2005-02-06,05220671021,48604283171,Poznań,ul. Grójecka 57,helena.majewska@gmail.com
+Franciszek Krawczyk,1998-06-11,98061100757,48581534807,Poznań,ul. Targowa 73,franciszek.krawczyk@gmail.com
+Natalia Kwiatkowska,1979-04-09,79040951122,48537913294,Poznań,Al. Armii Ludowej 100,natalia.kwiatkowska@gmail.com
+Jerzy Kwiatkowski,1991-03-04,91030470376,48591580839,Gdańsk,Al. Prymasa Tysiąclecia 53,jerzy.kwiatkowski@gmail.com
+Emil Michalski,1994-06-23,94062322910,48629608718,Kraków,Al. Wilanowska 30,emil.michalski@gmail.com
+Józef Grabowski,1999-02-13,99021352898,48808406123,Poznań,Al. Prymasa Tysiąclecia 88,józef.grabowski@gmail.com
+Gabriela Michalska,1959-05-07,59050756461,48777908120,Kraków,ul. Puławska 52,gabriela.michalska@gmail.com
+Amelia Wojciechowska,1950-06-11,50061136842,48514131395,Łódź,Al. Armii Ludowej 71,amelia.wojciechowska@gmail.com
+Celina Kwiatkowska,1973-09-08,73090811720,48789839384,Gdańsk,ul. Mokotowska 57,celina.kwiatkowska@gmail.com
+Jerzy Jankowski,2001-04-12,01241242455,48676796736,Łódź,ul. Puławska 44,jerzy.jankowski@gmail.com
+Hubert Malinowski,1947-06-21,47062115073,48567521193,Warszawa,ul. Wspólna 35,hubert.malinowski@gmail.com
+Aneta Sikora,1948-03-21,48032188088,48758368668,Warszawa,Al. Wilanowska 28,aneta.sikora@gmail.com
+Halina Stępień,1963-10-24,63102460262,48726355030,Kraków,ul. Wspólna 78,halina.stępień@gmail.com
+Bolesław Nowak,1949-07-09,49070948290,48731437071,Poznań,ul. Targowa 97,bolesław.nowak@gmail.com
+Gabriela Jankowska,1989-10-26,89102643409,48727520400,Gdańsk,Al. Wilanowska 3,gabriela.jankowska@gmail.com
+Barbara Michalak,1998-04-11,98041138141,48804174159,Poznań,ul. Targowa 57,barbara.michalak@gmail.com
+Kajetan Zalewski,1975-01-03,75010380332,48669807264,Poznań,ul. Złota 97,kajetan.zalewski@gmail.com
+Damian Wieczorek,1952-04-21,52042188499,48721221891,Poznań,ul. Targowa 84,damian.wieczorek@gmail.com
+Gabriela Michalak,1971-02-03,71020386546,48508853707,Łódź,Al. Wilanowska 84,gabriela.michalak@gmail.com
+Magdalena Zielińska,1967-07-27,67072711186,48560598720,Gdańsk,Al. Rzeczypospolitej 88,magdalena.zielińska@gmail.com
+Aneta Witkowska,1951-02-01,51020150662,48723490107,Warszawa,Al. Zieleniecka 91,aneta.witkowska@gmail.com
+Lech Wiśniewski,1984-06-12,84061241750,48609833432,Gdańsk,ul. Puławska 23,lech.wiśniewski@gmail.com
+Małgorzata Wojciechowska,1993-07-04,93070433429,48545235818,Łódź,Al. KEN 77,małgorzata.wojciechowska@gmail.com
+Gabriel Grabowski,1940-04-30,40043012279,48563195081,Warszawa,Al. Jana III Sobieskiego 64,gabriel.grabowski@gmail.com
+Gabriela Szewczyk,1999-09-19,99091954561,48509825794,Łódź,ul. Złota 47,gabriela.szewczyk@gmail.com
+Agnieszka Olszewska,1974-08-02,74080244085,48671230015,Gdańsk,ul. Grójecka 100,agnieszka.olszewska@gmail.com
+Adrian Szymański,1967-11-20,67112004696,48737600955,Kraków,ul. Nowy Świat 66,adrian.szymański@gmail.com
+Karolina Wójcik,1983-11-24,83112411861,48656344806,Poznań,Al. Niepodległości 76,karolina.wójcik@gmail.com
+Amelia Zając,1979-12-25,79122593646,48508014717,Warszawa,ul. Targowa 10,amelia.zając@gmail.com
+Marian Michalski,2006-10-24,06302431755,48629561864,Poznań,ul. Marszałkowska 19,marian.michalski@gmail.com
+Bogumiła Pawłowska,1980-07-06,80070617582,48670316005,Kraków,ul. Złota 95,bogumiła.pawłowska@gmail.com
+Jolanta Olszewska,1981-03-09,81030956662,48512340606,Łódź,Al. Prymasa Tysiąclecia 35,jolanta.olszewska@gmail.com
+Kacper Wojciechowski,1942-08-30,42083022331,48773879267,Poznań,Al. KEN 14,kacper.wojciechowski@gmail.com
+Krzysztof Zalewski,1956-12-03,56120343794,48583714197,Poznań,Al. Waszyngtona 62,krzysztof.zalewski@gmail.com
+Bartosz Malinowski,1943-05-13,43051366037,48725319317,Gdańsk,ul. Krakowskie Przedmieście 7,bartosz.malinowski@gmail.com
+Bożena Pietrzak,1980-03-22,80032288986,48818625624,Kraków,ul. Świętokrzyska 82,bożena.pietrzak@gmail.com
+Aleksandra Dudek,1947-08-01,47080172829,48600369422,Gdańsk,Al. Wojska Polskiego 11,aleksandra.dudek@gmail.com
+Katarzyna Adamczyk,1964-08-05,64080532563,48570783450,Poznań,Al. Armii Ludowej 87,katarzyna.adamczyk@gmail.com
+Łukasz Kamiński,1981-07-17,81071780633,48627036138,Gdańsk,Al. Niepodległości 49,łukasz.kamiński@gmail.com
+Aneta Sikora,1990-12-10,90121021729,48780964585,Łódź,ul. Marszałkowska 48,aneta.sikora@gmail.com
+Andrzej Lewandowski,1967-09-18,67091852219,48569539597,Warszawa,Al. Krakowska 76,andrzej.lewandowski@gmail.com
+Edyta Kamińska,1946-03-03,46030354322,48573126130,Gdańsk,ul. Puławska 31,edyta.kamińska@gmail.com
+Kinga Kamińska,1962-01-20,62012099027,48613591948,Łódź,ul. Nowy Świat 77,kinga.kamińska@gmail.com
+Jakub Szymański,1991-05-18,91051823953,48598046732,Poznań,Al. Zieleniecka 83,jakub.szymański@gmail.com
+Kamila Wiśniewska,1978-08-24,78082449646,48590718070,Warszawa,ul. Marszałkowska 73,kamila.wiśniewska@gmail.com
+Helena Witkowska,1980-08-29,80082923925,48667437405,Poznań,ul. Długa 49,helena.witkowska@gmail.com
+Franciszek Wójcik,1942-04-23,42042333098,48548651772,Gdańsk,ul. Żwirki i Wigury 73,franciszek.wójcik@gmail.com
+Józef Witkowski,1991-11-22,91112209799,48769406781,Łódź,Al. Jana III Sobieskiego 20,józef.witkowski@gmail.com
+Franciszek Walczak,1987-08-07,87080785854,48572571233,Warszawa,Al. Armii Ludowej 51,franciszek.walczak@gmail.com
+Mariusz Stępień,1989-04-13,89041317832,48631505463,Gdańsk,ul. Żwirki i Wigury 19,mariusz.stępień@gmail.com
+Dominik Krawczyk,1979-03-21,79032167658,48538621528,Gdańsk,Al. Waszyngtona 76,dominik.krawczyk@gmail.com
+Bartłomiej Majewski,1978-05-03,78050360911,48520439517,Warszawa,ul. Mokotowska 38,bartłomiej.majewski@gmail.com
+Gabriela Michalska,1949-11-23,49112344343,48716847848,Gdańsk,Al. Wojska Polskiego 26,gabriela.michalska@gmail.com
+Dawid Wojciechowski,1976-07-27,76072788179,48727283701,Gdańsk,Al. Wilanowska 21,dawid.wojciechowski@gmail.com
+Andrzej Grabowski,1964-12-13,64121344294,48521655772,Kraków,Al. KEN 74,andrzej.grabowski@gmail.com
+Nina Dąbrowska,1945-09-16,45091680968,48563071281,Kraków,ul. Grójecka 76,nina.dąbrowska@gmail.com
+Justyna Grabowska,1974-08-10,74081032368,48686561075,Gdańsk,Al. Armii Ludowej 70,justyna.grabowska@gmail.com
+Kamila Kaczmarek,1955-11-10,55111035908,48519840889,Warszawa,Al. Krakowska 77,kamila.kaczmarek@gmail.com
+Celina Nowak,1961-08-09,61080999046,48764764616,Łódź,ul. Jana Pawła II 15,celina.nowak@gmail.com
+Laura Kwiatkowska,1984-09-25,84092580822,48714730139,Poznań,ul. Nowy Świat 17,laura.kwiatkowska@gmail.com
+Aleksander Nowakowski,1986-08-13,86081318935,48600173163,Łódź,ul. Krakowskie Przedmieście 95,aleksander.nowakowski@gmail.com
+Krzysztof Nowicki,1974-11-13,74111302458,48603307173,Kraków,ul. Targowa 87,krzysztof.nowicki@gmail.com
+Henryk Kowalczyk,2005-06-26,05262656572,48752162990,Łódź,Al. KEN 73,henryk.kowalczyk@gmail.com
+Jerzy Kwiatkowski,2005-10-17,05301741876,48811963832,Łódź,ul. Jana Pawła II 13,jerzy.kwiatkowski@gmail.com
+Amelia Wieczorek,1988-03-11,88031148885,48527784876,Warszawa,ul. Grójecka 84,amelia.wieczorek@gmail.com
+Artur Górski,1987-01-04,87010424970,48607752886,Poznań,Al. Wilanowska 97,artur.górski@gmail.com
+Daniel Pawlak,1964-12-04,64120421491,48714912966,Warszawa,ul. Długa 52,daniel.pawlak@gmail.com
+Marta Ostrowska,1990-06-19,90061976501,48527383764,Łódź,Al. Rzeczypospolitej 85,marta.ostrowska@gmail.com
+Daniel Szymański,1959-10-21,59102115653,48607587497,Gdańsk,Al. Waszyngtona 21,daniel.szymański@gmail.com
+Maria Sikora,1989-05-15,89051564662,48583299871,Warszawa,Al. Stanów Zjednoczonych 48,maria.sikora@gmail.com
+Jakub Wróbel,1942-11-15,42111584075,48786719639,Gdańsk,ul. Długa 21,jakub.wróbel@gmail.com
+Kazimierz Dąbrowski,1971-04-05,71040590679,48743767102,Warszawa,Al. Solidarności 37,kazimierz.dąbrowski@gmail.com
+Agnieszka Kamińska,1992-04-17,92041767286,48509026530,Kraków,ul. Krakowskie Przedmieście 25,agnieszka.kamińska@gmail.com
+Lucyna Wieczorek,1966-04-06,66040680846,48680161767,Kraków,Al. Solidarności 14,lucyna.wieczorek@gmail.com
+Irena Kamińska,1959-09-10,59091027528,48732430690,Łódź,Al. Armii Ludowej 83,irena.kamińska@gmail.com
+Maciej Król,1958-10-28,58102840215,48783132517,Poznań,ul. Złota 6,maciej.król@gmail.com
+Nina Wróbel,1974-07-27,74072746782,48502503033,Poznań,ul. Piotrkowska 88,nina.wróbel@gmail.com
+Marek Pietrzak,1998-02-14,98021492692,48678000418,Łódź,ul. Nowy Świat 72,marek.pietrzak@gmail.com
+Izabela Sikora,1992-03-14,92031425167,48732918990,Warszawa,Al. Krakowska 77,izabela.sikora@gmail.com
+Kazimiera Wieczorek,1949-12-03,49120375582,48817466491,Poznań,Al. Niepodległości 20,kazimiera.wieczorek@gmail.com
+Bartosz Walczak,2001-08-04,01280486610,48740706920,Poznań,ul. Mokotowska 15,bartosz.walczak@gmail.com
+Mariusz Kwiatkowski,1971-08-13,71081303674,48778220087,Gdańsk,ul. Piotrkowska 24,mariusz.kwiatkowski@gmail.com
+Danuta Grabowska,1983-09-26,83092601065,48595436947,Poznań,Al. Niepodległości 63,danuta.grabowska@gmail.com
+Irena Wójcik,1985-10-28,85102886585,48542567663,Gdańsk,Al. Jerozolimskie 52,irena.wójcik@gmail.com
+Adam Wiśniewski,2002-05-10,02251079837,48510728508,Gdańsk,ul. Wspólna 59,adam.wiśniewski@gmail.com
+Hubert Nowicki,1955-03-13,55031397557,48542063306,Poznań,ul. Wspólna 44,hubert.nowicki@gmail.com
+Damian Wieczorek,1947-10-05,47100591018,48595566535,Kraków,ul. Świętokrzyska 60,damian.wieczorek@gmail.com
+Arkadiusz Kozłowski,1964-12-24,64122473632,48519848067,Poznań,Al. Jerozolimskie 84,arkadiusz.kozłowski@gmail.com
+Grzegorz Lewandowski,1973-09-19,73091986111,48817530687,Łódź,ul. Świętokrzyska 93,grzegorz.lewandowski@gmail.com
+Dominik Walczak,1967-05-10,67051040955,48819805334,Łódź,ul. Nowy Świat 31,dominik.walczak@gmail.com
+Helena Michalak,1978-03-31,78033148105,48802605329,Poznań,Al. Jana III Sobieskiego 38,helena.michalak@gmail.com
+Bożena Kozłowska,1982-07-30,82073001421,48818711965,Warszawa,ul. Mokotowska 55,bożena.kozłowska@gmail.com
+Anna Jaworska,1983-10-31,83103151822,48535581479,Łódź,Al. Waszyngtona 58,anna.jaworska@gmail.com
+Grzegorz Majewski,2001-04-21,01242106039,48749181200,Łódź,Al. Rzeczypospolitej 35,grzegorz.majewski@gmail.com
+Alicja Kaczmarek,1956-01-17,56011770908,48784751883,Kraków,Al. Niepodległości 75,alicja.kaczmarek@gmail.com
+Irena Górska,1987-12-17,87121799789,48732599247,Poznań,ul. Chmielna 26,irena.górska@gmail.com
+Laura Grabowska,1970-07-09,70070950183,48648921273,Łódź,ul. Mokotowska 90,laura.grabowska@gmail.com
+Emil Król,2005-10-13,05301391453,48751615449,Łódź,ul. Piotrkowska 83,emil.król@gmail.com
+Dorota Jabłońska,1976-11-01,76110150162,48640612983,Kraków,Al. Krakowska 40,dorota.jabłońska@gmail.com
+Barbara Jabłońska,1980-11-16,80111630488,48588492256,Gdańsk,ul. Złota 82,barbara.jabłońska@gmail.com
+Mateusz Kowalczyk,1989-07-15,89071578814,48787948639,Łódź,ul. Piotrkowska 83,mateusz.kowalczyk@gmail.com
+Artur Kamiński,1999-11-10,99111077531,48518544928,Gdańsk,Al. KEN 5,artur.kamiński@gmail.com
+Cezary Górski,1962-11-24,62112451851,48508985033,Gdańsk,Al. KEN 15,cezary.górski@gmail.com
+Bartłomiej Kozłowski,1953-03-27,53032759918,48745747308,Warszawa,Al. Prymasa Tysiąclecia 18,bartłomiej.kozłowski@gmail.com
+Mariusz Górski,2004-05-05,04250578270,48725329287,Gdańsk,Al. Stanów Zjednoczonych 94,mariusz.górski@gmail.com
+Kazimierz Zalewski,1981-03-02,81030284639,48599184031,Gdańsk,Al. Jerozolimskie 15,kazimierz.zalewski@gmail.com
+Krystyna Kowalska,2000-12-04,00320459102,48795697872,Gdańsk,ul. Piotrkowska 84,krystyna.kowalska@gmail.com
+Justyna Wójcik,2003-06-23,03262313343,48815569232,Warszawa,Al. Niepodległości 78,justyna.wójcik@gmail.com
+Dominik Nowakowski,1974-04-29,74042967537,48794458699,Poznań,Al. Armii Ludowej 27,dominik.nowakowski@gmail.com
+Magdalena Tomaszewska,1952-09-14,52091448340,48583246041,Poznań,Al. Waszyngtona 5,magdalena.tomaszewska@gmail.com
+Eryk Wiśniewski,1943-11-11,43111189635,48796930465,Łódź,Al. KEN 32,eryk.wiśniewski@gmail.com
+Aleksander Wiśniewski,1994-12-15,94121512751,48624652970,Łódź,Al. Waszyngtona 79,aleksander.wiśniewski@gmail.com
+Kamila Ostrowska,1946-06-20,46062093507,48751860313,Poznań,Al. Prymasa Tysiąclecia 58,kamila.ostrowska@gmail.com
+Edyta Olszewska,1986-04-01,86040141442,48556566912,Łódź,ul. Piotrkowska 61,edyta.olszewska@gmail.com
+Gabriela Kwiatkowska,1942-07-26,42072676301,48787213398,Łódź,ul. Marszałkowska 59,gabriela.kwiatkowska@gmail.com
+Ewa Piotrowska,1950-01-01,50010143961,48579286498,Warszawa,Al. Jana III Sobieskiego 24,ewa.piotrowska@gmail.com
+Hubert Jabłoński,1997-12-19,97121951379,48799422666,Poznań,Al. Wilanowska 74,hubert.jabłoński@gmail.com
+Katarzyna Michalak,1978-01-04,78010474263,48806558557,Poznań,Al. Waszyngtona 85,katarzyna.michalak@gmail.com
+Józef Rutkowski,1941-07-06,41070655057,48780059345,Gdańsk,Al. KEN 19,józef.rutkowski@gmail.com
+Aleksandra Pietrzak,1981-08-05,81080571127,48777992517,Poznań,ul. Krakowskie Przedmieście 81,aleksandra.pietrzak@gmail.com
+Bogdan Dudek,1960-07-15,60071596138,48667566235,Poznań,Al. Krakowska 64,bogdan.dudek@gmail.com
+Anita Zając,1971-03-21,71032177044,48557573762,Łódź,Al. Jerozolimskie 8,anita.zając@gmail.com
+Nina Lewandowska,1980-01-05,80010507845,48754726845,Gdańsk,Al. Prymasa Tysiąclecia 100,nina.lewandowska@gmail.com
+Grażyna Sikora,1989-09-10,89091095821,48686724167,Warszawa,Al. Jerozolimskie 99,grażyna.sikora@gmail.com
+Dorota Wróblewska,1978-12-05,78120575883,48798303789,Poznań,Al. KEN 72,dorota.wróblewska@gmail.com
+Agnieszka Pietrzak,1940-02-18,40021889242,48524292224,Poznań,ul. Targowa 54,agnieszka.pietrzak@gmail.com
+Hanna Nowak,1958-09-11,58091194625,48732999376,Kraków,Al. Solidarności 50,hanna.nowak@gmail.com
+Mariusz Krawczyk,1962-08-15,62081592894,48757803837,Gdańsk,ul. Żwirki i Wigury 45,mariusz.krawczyk@gmail.com
+Kajetan Kozłowski,1957-05-03,57050341430,48584892256,Poznań,ul. Marszałkowska 72,kajetan.kozłowski@gmail.com
+Kazimiera Stępień,1971-03-21,71032103384,48614412166,Poznań,ul. Jana Pawła II 58,kazimiera.stępień@gmail.com
+Jakub Pietrzak,1948-09-03,48090325812,48814607431,Warszawa,Al. Stanów Zjednoczonych 30,jakub.pietrzak@gmail.com
+Lech Mazur,1945-04-29,45042921232,48521327742,Poznań,ul. Chmielna 20,lech.mazur@gmail.com
+Józef Stępień,1949-01-29,49012975359,48787956103,Łódź,Al. Krakowska 5,józef.stępień@gmail.com
+Damian Pawłowski,2006-01-27,06212704079,48781591786,Poznań,ul. Jana Pawła II 90,damian.pawłowski@gmail.com
+Danuta Michalak,1970-02-09,70020947762,48775035866,Gdańsk,ul. Długa 79,danuta.michalak@gmail.com
+Kajetan Wójcik,1959-07-16,59071623678,48684593458,Poznań,Al. Jana III Sobieskiego 61,kajetan.wójcik@gmail.com
+Jerzy Malinowski,1963-02-10,63021006811,48815893659,Warszawa,ul. Marszałkowska 68,jerzy.malinowski@gmail.com
+Bolesław Michalak,1972-11-17,72111715892,48596834312,Łódź,Al. Wilanowska 98,bolesław.michalak@gmail.com
+Bogumiła Krawczyk,1971-01-06,71010635564,48758126025,Poznań,ul. Wspólna 30,bogumiła.krawczyk@gmail.com
+Lidia Michalak,2002-03-25,02232534481,48654732440,Łódź,ul. Świętokrzyska 99,lidia.michalak@gmail.com
+Maria Rutkowska,1957-02-15,57021551822,48575759841,Kraków,Al. Waszyngtona 96,maria.rutkowska@gmail.com
+Kazimierz Kamiński,1953-10-17,53101752837,48658363187,Poznań,ul. Długa 9,kazimierz.kamiński@gmail.com
+Mateusz Nowakowski,1941-12-09,41120952855,48699082250,Gdańsk,Al. Jerozolimskie 28,mateusz.nowakowski@gmail.com
+Cezary Witkowski,1945-05-26,45052682095,48804476882,Łódź,Al. Wilanowska 92,cezary.witkowski@gmail.com
+Łukasz Kaczmarek,1944-11-16,44111679696,48763489334,Poznań,ul. Wspólna 75,łukasz.kaczmarek@gmail.com
+Lidia Piotrowska,1960-03-20,60032084003,48523585704,Poznań,Al. Rzeczypospolitej 65,lidia.piotrowska@gmail.com
+Mateusz Ostrowski,1941-03-31,41033155314,48815998958,Łódź,ul. Jana Pawła II 62,mateusz.ostrowski@gmail.com
+Artur Kowalczyk,1969-04-30,69043035477,48798193943,Łódź,ul. Mokotowska 97,artur.kowalczyk@gmail.com
+Cyprian Adamczyk,1996-03-12,96031293696,48596884292,Gdańsk,Al. KEN 65,cyprian.adamczyk@gmail.com
+Bożena Baran,1955-02-24,55022455503,48752102196,Gdańsk,ul. Wspólna 61,bożena.baran@gmail.com
+Józef Malinowski,1986-05-22,86052285994,48606637381,Łódź,Al. Solidarności 24,józef.malinowski@gmail.com
+Irena Jankowska,1942-05-24,42052403486,48674103963,Gdańsk,Al. Waszyngtona 49,irena.jankowska@gmail.com
+Karol Majewski,1978-03-01,78030165316,48567604262,Kraków,Al. Jerozolimskie 33,karol.majewski@gmail.com
+Joanna Stępień,1986-07-24,86072494602,48778407190,Łódź,ul. Świętokrzyska 76,joanna.stępień@gmail.com
+Marta Jabłońska,1953-03-10,53031028729,48780148046,Gdańsk,ul. Długa 4,marta.jabłońska@gmail.com
+Ireneusz Lewandowski,1982-10-07,82100772674,48705950766,Łódź,Al. Stanów Zjednoczonych 44,ireneusz.lewandowski@gmail.com
+Justyna Michalak,1946-08-28,46082845427,48804918786,Warszawa,Al. Jana III Sobieskiego 85,justyna.michalak@gmail.com
+Jolanta Jabłońska,1985-01-30,85013025389,48539447589,Warszawa,ul. Grójecka 75,jolanta.jabłońska@gmail.com
+Justyna Jaworska,1949-03-28,49032816845,48657745221,Łódź,ul. Długa 2,justyna.jaworska@gmail.com
+Krzysztof Pawlak,1990-01-02,90010226879,48679079724,Łódź,Al. Solidarności 76,krzysztof.pawlak@gmail.com
+Józef Walczak,1947-12-10,47121089552,48699408984,Gdańsk,Al. Stanów Zjednoczonych 70,józef.walczak@gmail.com
+Nina Kowalczyk,1970-08-08,70080866407,48714307668,Kraków,ul. Targowa 21,nina.kowalczyk@gmail.com
+Dawid Górski,1984-05-31,84053191175,48679677263,Warszawa,ul. Krakowskie Przedmieście 66,dawid.górski@gmail.com
+Cezary Walczak,1955-07-08,55070828298,48708935269,Warszawa,Al. Wilanowska 8,cezary.walczak@gmail.com
+Amelia Nowakowska,1960-08-08,60080892663,48615501857,Warszawa,Al. Waszyngtona 55,amelia.nowakowska@gmail.com
+Julia Michalska,1973-04-07,73040728384,48564982144,Warszawa,ul. Targowa 24,julia.michalska@gmail.com
+Emil Kowalski,1992-09-25,92092595153,48624918866,Kraków,ul. Złota 24,emil.kowalski@gmail.com
+Emil Mazur,1964-04-16,64041662212,48768384106,Poznań,ul. Mokotowska 56,emil.mazur@gmail.com
+Janusz Jabłoński,1989-03-18,89031884537,48600460035,Gdańsk,ul. Grójecka 61,janusz.jabłoński@gmail.com
+Laura Rutkowska,1977-02-05,77020535041,48753043370,Kraków,Al. Wilanowska 43,laura.rutkowska@gmail.com
+Jan Ostrowski,1990-08-11,90081175933,48560240315,Gdańsk,Al. KEN 77,jan.ostrowski@gmail.com
+Edward Tomaszewski,1995-05-23,95052355932,48505587239,Gdańsk,Al. Wojska Polskiego 28,edward.tomaszewski@gmail.com
+Grzegorz Majewski,2003-07-12,03271269837,48537727372,Łódź,Al. Niepodległości 66,grzegorz.majewski@gmail.com
+Agnieszka Nowakowska,1982-04-29,82042930727,48519422874,Warszawa,Al. Zieleniecka 40,agnieszka.nowakowska@gmail.com
+Mariusz Wróbel,1984-01-17,84011783457,48530213089,Kraków,ul. Puławska 51,mariusz.wróbel@gmail.com
+Natalia Kowalczyk,1995-05-15,95051598246,48588570946,Łódź,Al. Waszyngtona 52,natalia.kowalczyk@gmail.com
+Celina Kaczmarek,2006-11-13,06311371448,48725827669,Łódź,ul. Jana Pawła II 19,celina.kaczmarek@gmail.com
+Jakub Kowalczyk,1996-10-04,96100491699,48778924984,Warszawa,ul. Chmielna 54,jakub.kowalczyk@gmail.com
+Halina Nowak,2001-08-29,01282934869,48563456814,Warszawa,Al. Niepodległości 8,halina.nowak@gmail.com
+Dominik Kwiatkowski,1955-07-20,55072083132,48565601549,Kraków,Al. Wojska Polskiego 80,dominik.kwiatkowski@gmail.com
+Karolina Grabowska,1954-02-23,54022303625,48684384622,Łódź,ul. Chmielna 23,karolina.grabowska@gmail.com
+Mariusz Krawczyk,1994-02-15,94021598697,48745878457,Kraków,Al. Prymasa Tysiąclecia 99,mariusz.krawczyk@gmail.com
+Agnieszka Kowalczyk,1995-09-29,95092933565,48789382144,Poznań,ul. Wspólna 34,agnieszka.kowalczyk@gmail.com
+Arkadiusz Kaczmarek,1945-05-26,45052614218,48776589032,Warszawa,ul. Złota 39,arkadiusz.kaczmarek@gmail.com
+Franciszek Wróbel,1996-07-05,96070568636,48509540074,Łódź,Al. Krakowska 16,franciszek.wróbel@gmail.com
+Kamila Michalak,1947-09-12,47091283042,48811347337,Łódź,Al. Wilanowska 81,kamila.michalak@gmail.com
+Andrzej Zając,2006-02-10,06221006296,48554275057,Kraków,Al. Rzeczypospolitej 72,andrzej.zając@gmail.com
+Halina Szymańska,1958-08-24,58082459788,48582389898,Kraków,Al. Prymasa Tysiąclecia 52,halina.szymańska@gmail.com
+Eryk Olszewski,1990-08-18,90081861416,48680989906,Kraków,ul. Długa 52,eryk.olszewski@gmail.com
+Bogumiła Adamczyk,2006-03-17,06231707440,48549082519,Warszawa,ul. Złota 29,bogumiła.adamczyk@gmail.com
+Celina Szymańska,1959-03-11,59031116785,48572080103,Poznań,Al. Wojska Polskiego 99,celina.szymańska@gmail.com
+Kajetan Dąbrowski,1977-04-24,77042450854,48610539872,Łódź,ul. Wspólna 19,kajetan.dąbrowski@gmail.com
+Franciszek Malinowski,1991-09-08,91090816378,48506532756,Łódź,Al. Stanów Zjednoczonych 70,franciszek.malinowski@gmail.com
+Czesława Zielińska,1973-12-09,73120930322,48798618696,Gdańsk,ul. Świętokrzyska 50,czesława.zielińska@gmail.com
+Julia Szymańska,1981-09-30,81093027107,48644527169,Gdańsk,ul. Żwirki i Wigury 64,julia.szymańska@gmail.com
+Monika Kowalska,1999-05-13,99051342980,48503860026,Kraków,Al. Jerozolimskie 47,monika.kowalska@gmail.com
+Cezary Tomaszewski,1983-06-12,83061290931,48769265492,Łódź,Al. Stanów Zjednoczonych 37,cezary.tomaszewski@gmail.com
+Bożena Zielińska,1983-01-03,83010354226,48638291562,Łódź,Al. Niepodległości 33,bożena.zielińska@gmail.com
+Cezary Majewski,1957-02-23,57022333533,48618377269,Gdańsk,ul. Krakowskie Przedmieście 3,cezary.majewski@gmail.com
+Ignacy Jabłoński,1983-03-01,83030188814,48528007175,Gdańsk,Al. Rzeczypospolitej 15,ignacy.jabłoński@gmail.com
+Laura Wróbel,1992-02-06,92020646786,48523909783,Gdańsk,Al. Jerozolimskie 53,laura.wróbel@gmail.com
+Bartosz Tomaszewski,1965-09-17,65091767094,48694695994,Łódź,ul. Chmielna 67,bartosz.tomaszewski@gmail.com
+Łukasz Wieczorek,1981-11-09,81110946714,48630900922,Kraków,Al. Wojska Polskiego 51,łukasz.wieczorek@gmail.com
+Kacper Mazur,1944-11-13,44111344097,48759746138,Kraków,Al. Waszyngtona 40,kacper.mazur@gmail.com
+Jerzy Wójcik,1954-01-12,54011271610,48542178277,Kraków,Al. Prymasa Tysiąclecia 26,jerzy.wójcik@gmail.com
+Daniel Krawczyk,1997-10-04,97100488874,48725425949,Kraków,Al. Prymasa Tysiąclecia 20,daniel.krawczyk@gmail.com
+Józef Olszewski,1947-12-03,47120357737,48601540932,Łódź,Al. Wilanowska 36,józef.olszewski@gmail.com
+Maria Nowak,1981-08-28,81082887620,48744374916,Łódź,Al. Wilanowska 63,maria.nowak@gmail.com
+Magdalena Nowicka,1972-06-24,72062427088,48634453414,Kraków,ul. Piotrkowska 74,magdalena.nowicka@gmail.com
+Maria Michalska,1976-04-15,76041549325,48581425549,Kraków,Al. Zieleniecka 92,maria.michalska@gmail.com
+Damian Mazur,1980-11-28,80112840156,48549575933,Gdańsk,ul. Jana Pawła II 16,damian.mazur@gmail.com
+Kacper Lewandowski,1960-04-21,60042196037,48680224686,Poznań,ul. Chmielna 64,kacper.lewandowski@gmail.com
+Lech Baran,1959-01-13,59011376952,48650731424,Łódź,ul. Grójecka 50,lech.baran@gmail.com
+Kajetan Tomaszewski,1954-11-16,54111633918,48564847091,Łódź,Al. Krakowska 3,kajetan.tomaszewski@gmail.com
+Justyna Nowak,2002-03-16,02231698948,48608142167,Warszawa,ul. Mokotowska 47,justyna.nowak@gmail.com
+Amelia Kwiatkowska,1989-01-14,89011401349,48693823355,Gdańsk,ul. Długa 89,amelia.kwiatkowska@gmail.com
+Karolina Górska,1947-05-08,47050824549,48742465811,Łódź,Al. Wilanowska 55,karolina.górska@gmail.com
+Amelia Rutkowska,1946-03-14,46031440062,48533870363,Poznań,Al. Jana III Sobieskiego 48,amelia.rutkowska@gmail.com
+Aleksander Wojciechowski,1953-12-01,53120124831,48620312550,Kraków,ul. Grójecka 5,aleksander.wojciechowski@gmail.com
+Cyprian Tomaszewski,1948-11-30,48113064319,48597553352,Warszawa,Al. Jana III Sobieskiego 55,cyprian.tomaszewski@gmail.com
+Katarzyna Kaczmarek,1968-04-13,68041367023,48558609333,Warszawa,Al. Solidarności 16,katarzyna.kaczmarek@gmail.com
+Alicja Pawłowska,1987-11-08,87110859708,48698954326,Kraków,ul. Krakowskie Przedmieście 58,alicja.pawłowska@gmail.com
+Artur Król,1947-07-13,47071320657,48593799511,Gdańsk,Al. Stanów Zjednoczonych 64,artur.król@gmail.com
+Halina Woźniak,1957-12-12,57121264264,48698091605,Kraków,ul. Długa 6,halina.woźniak@gmail.com
+Joanna Majewska,1999-04-12,99041259500,48734367787,Kraków,ul. Złota 93,joanna.majewska@gmail.com
+Marta Witkowska,1946-11-11,46111125160,48737734106,Warszawa,Al. Waszyngtona 12,marta.witkowska@gmail.com
+Laura Woźniak,1971-08-13,71081397606,48754921902,Gdańsk,Al. Wilanowska 60,laura.woźniak@gmail.com
+Aleksandra Olszewska,1971-06-15,71061574142,48801712786,Warszawa,Al. Wilanowska 95,aleksandra.olszewska@gmail.com
+Grzegorz Wojciechowski,1954-07-31,54073176575,48736666757,Gdańsk,Al. Jana III Sobieskiego 18,grzegorz.wojciechowski@gmail.com
+Irena Olszewska,1947-11-18,47111822842,48512181139,Warszawa,ul. Marszałkowska 93,irena.olszewska@gmail.com
+Celina Dudek,1945-08-03,45080355765,48745946886,Poznań,ul. Świętokrzyska 27,celina.dudek@gmail.com
+Karolina Pawlak,1977-03-22,77032208982,48542120847,Kraków,ul. Chmielna 38,karolina.pawlak@gmail.com
+Eryk Kowalski,2006-03-27,06232747632,48668714410,Kraków,Al. Wilanowska 31,eryk.kowalski@gmail.com
+Filip Woźniak,1958-06-28,58062804791,48543257872,Poznań,ul. Chmielna 30,filip.woźniak@gmail.com
+Halina Wieczorek,1942-12-19,42121945080,48798003544,Kraków,Al. Krakowska 13,halina.wieczorek@gmail.com
+Kazimiera Ostrowska,1986-10-28,86102877306,48684426556,Poznań,Al. Stanów Zjednoczonych 92,kazimiera.ostrowska@gmail.com
+Dariusz Majewski,1971-09-02,71090252376,48731457466,Gdańsk,Al. Waszyngtona 70,dariusz.majewski@gmail.com
+Damian Piotrowski,2005-07-21,05272125219,48607577696,Łódź,ul. Puławska 70,damian.piotrowski@gmail.com
+Beata Wiśniewska,1974-10-24,74102404004,48819740049,Poznań,ul. Żwirki i Wigury 8,beata.wiśniewska@gmail.com
+Artur Kaczmarek,1968-09-12,68091259976,48586063511,Łódź,ul. Chmielna 10,artur.kaczmarek@gmail.com
+Bożena Jaworska,2004-08-02,04280207027,48815027661,Kraków,Al. Wilanowska 28,bożena.jaworska@gmail.com
+Barbara Górska,1979-11-04,79110469968,48504846823,Gdańsk,ul. Wspólna 44,barbara.górska@gmail.com
+Alicja Pawlak,1942-05-04,42050411724,48542893444,Łódź,ul. Piotrkowska 73,alicja.pawlak@gmail.com
+Artur Jabłoński,1947-05-03,47050345671,48670561521,Kraków,ul. Żwirki i Wigury 100,artur.jabłoński@gmail.com
+Kinga Rutkowska,1963-02-27,63022780442,48771363302,Kraków,Al. Niepodległości 46,kinga.rutkowska@gmail.com
+Bogdan Wróbel,1962-05-24,62052427552,48580553279,Gdańsk,ul. Piotrkowska 50,bogdan.wróbel@gmail.com
+Anna Kozłowska,1992-11-26,92112645280,48600310906,Gdańsk,Al. Jana III Sobieskiego 56,anna.kozłowska@gmail.com
+Jolanta Wróbel,1982-10-01,82100189221,48587205284,Łódź,ul. Złota 51,jolanta.wróbel@gmail.com
+Mariusz Olszewski,1953-02-01,53020130974,48630747550,Kraków,ul. Nowy Świat 22,mariusz.olszewski@gmail.com
+Hanna Adamczyk,1988-09-17,88091784980,48788430965,Poznań,ul. Długa 32,hanna.adamczyk@gmail.com
+Bartłomiej Pawłowski,1965-03-09,65030981956,48653258982,Gdańsk,ul. Jana Pawła II 74,bartłomiej.pawłowski@gmail.com
+Elżbieta Grabowska,1996-06-03,96060304769,48603673198,Kraków,Al. Wilanowska 40,elżbieta.grabowska@gmail.com
+Adam Michalski,1995-09-20,95092064333,48813529290,Kraków,ul. Grójecka 56,adam.michalski@gmail.com
+Filip Witkowski,1949-08-25,49082597950,48816243210,Warszawa,ul. Marszałkowska 79,filip.witkowski@gmail.com
+Janina Jankowska,1983-01-12,83011282928,48753621882,Łódź,Al. Zieleniecka 20,janina.jankowska@gmail.com
+Magdalena Stępień,1989-04-20,89042099065,48579940921,Warszawa,Al. Prymasa Tysiąclecia 15,magdalena.stępień@gmail.com
+Edward Michalak,1957-10-04,57100495892,48781158626,Łódź,ul. Targowa 39,edward.michalak@gmail.com
+Mateusz Mazur,1984-07-06,84070666836,48793591907,Warszawa,ul. Jana Pawła II 16,mateusz.mazur@gmail.com
+Jacek Dąbrowski,1960-10-10,60101037934,48710800829,Kraków,Al. Wilanowska 14,jacek.dąbrowski@gmail.com
+Kacper Jaworski,1943-11-10,43111066752,48726583101,Kraków,Al. Prymasa Tysiąclecia 39,kacper.jaworski@gmail.com
+Artur Wróbel,2006-05-26,06252660858,48652016604,Poznań,Al. Zieleniecka 13,artur.wróbel@gmail.com
+Marianna Wróblewska,2001-02-18,01221856162,48543931932,Poznań,Al. Wilanowska 18,marianna.wróblewska@gmail.com
+Izabela Górska,1968-06-30,68063028021,48804957597,Warszawa,Al. Wojska Polskiego 16,izabela.górska@gmail.com
+Dariusz Olszewski,1954-08-16,54081604495,48532476347,Poznań,Al. Solidarności 17,dariusz.olszewski@gmail.com
+Hanna Dudek,1979-05-13,79051321640,48523932406,Łódź,ul. Chmielna 16,hanna.dudek@gmail.com
+Danuta Rutkowska,1983-03-08,83030884123,48787689347,Łódź,ul. Długa 22,danuta.rutkowska@gmail.com
+Grażyna Kozłowska,2006-09-15,06291530208,48533339796,Kraków,ul. Jana Pawła II 79,grażyna.kozłowska@gmail.com
+Jakub Nowak,1978-01-11,78011157152,48723514487,Kraków,Al. Krakowska 3,jakub.nowak@gmail.com
+Celina Wróbel,1960-03-31,60033110240,48501070118,Warszawa,Al. Krakowska 9,celina.wróbel@gmail.com
+Elżbieta Szewczyk,1963-04-28,63042839407,48675700332,Warszawa,Al. Prymasa Tysiąclecia 93,elżbieta.szewczyk@gmail.com
+Edward Kwiatkowski,1987-12-19,87121923090,48527191313,Gdańsk,Al. Armii Ludowej 54,edward.kwiatkowski@gmail.com
+Adam Nowak,1941-08-17,41081722458,48619414230,Kraków,ul. Grójecka 98,adam.nowak@gmail.com
+Anna Olszewska,1942-06-29,42062952882,48700133679,Kraków,ul. Wspólna 79,anna.olszewska@gmail.com
+Grażyna Grabowska,2005-12-23,05322347066,48766560867,Kraków,ul. Wspólna 97,grażyna.grabowska@gmail.com
+Kinga Woźniak,1997-07-11,97071183345,48544341767,Kraków,ul. Chmielna 82,kinga.woźniak@gmail.com
+Kajetan Witkowski,1957-07-07,57070717291,48511986740,Kraków,ul. Długa 12,kajetan.witkowski@gmail.com
+Jerzy Adamczyk,1963-11-19,63111986179,48737433466,Warszawa,Al. Jerozolimskie 17,jerzy.adamczyk@gmail.com
+Beata Olszewska,1987-07-19,87071994506,48637331290,Warszawa,ul. Puławska 63,beata.olszewska@gmail.com
+Grzegorz Mazur,2003-08-17,03281707758,48554796324,Poznań,Al. Zieleniecka 96,grzegorz.mazur@gmail.com
+Ewa Dąbrowska,1997-04-07,97040710686,48587949548,Łódź,ul. Nowy Świat 3,ewa.dąbrowska@gmail.com
+Barbara Pawlak,1973-05-26,73052677502,48690780215,Warszawa,Al. Zieleniecka 84,barbara.pawlak@gmail.com
+Emil Grabowski,1973-06-24,73062410054,48806183516,Łódź,Al. KEN 100,emil.grabowski@gmail.com
+Gabriela Walczak,1949-06-07,49060713963,48578273955,Gdańsk,Al. Rzeczypospolitej 50,gabriela.walczak@gmail.com
+Marek Zieliński,1994-01-05,94010583637,48792084161,Poznań,ul. Świętokrzyska 55,marek.zieliński@gmail.com
+Celina Zielińska,1979-01-24,79012446421,48527288038,Poznań,ul. Krakowskie Przedmieście 68,celina.zielińska@gmail.com
+Beata Kaczmarek,1961-05-24,61052442983,48555901695,Gdańsk,ul. Wspólna 64,beata.kaczmarek@gmail.com
+Bartosz Rutkowski,2004-11-15,04311549492,48810001100,Kraków,ul. Jana Pawła II 91,bartosz.rutkowski@gmail.com
+Mateusz Zieliński,1967-02-20,67022084599,48530460809,Łódź,Al. Zieleniecka 19,mateusz.zieliński@gmail.com
+Emilia Tomaszewska,1973-03-28,73032856323,48752899109,Kraków,ul. Świętokrzyska 85,emilia.tomaszewska@gmail.com
+Amelia Mazur,1975-01-15,75011521345,48713243328,Kraków,Al. Rzeczypospolitej 8,amelia.mazur@gmail.com
+Andrzej Ostrowski,2003-08-02,03280205172,48647225841,Łódź,Al. Wilanowska 30,andrzej.ostrowski@gmail.com
+Elżbieta Kowalczyk,1972-12-11,72121187849,48570260518,Łódź,Al. Stanów Zjednoczonych 33,elżbieta.kowalczyk@gmail.com
+Filip Jankowski,1994-12-04,94120454698,48788898098,Poznań,ul. Wspólna 45,filip.jankowski@gmail.com
+Helena Kowalczyk,1978-04-20,78042056422,48581349163,Poznań,ul. Długa 48,helena.kowalczyk@gmail.com
+Franciszek Pawlak,1984-03-29,84032978898,48659328789,Poznań,Al. Wilanowska 24,franciszek.pawlak@gmail.com
+Bartosz Wróblewski,1999-11-28,99112863850,48579861218,Warszawa,Al. Prymasa Tysiąclecia 28,bartosz.wróblewski@gmail.com
+Adrian Pawłowski,1984-10-18,84101802017,48564524892,Kraków,Al. Wojska Polskiego 32,adrian.pawłowski@gmail.com
+Julia Witkowska,2004-10-25,04302514809,48538545477,Gdańsk,ul. Targowa 91,julia.witkowska@gmail.com
+Janina Jabłońska,2000-12-29,00322928587,48733004814,Kraków,Al. Jana III Sobieskiego 84,janina.jabłońska@gmail.com
+Bartosz Kamiński,1956-09-16,56091603093,48569541384,Poznań,ul. Puławska 17,bartosz.kamiński@gmail.com
+Aleksandra Sikora,2001-06-29,01262962369,48570223695,Łódź,Al. Waszyngtona 73,aleksandra.sikora@gmail.com
+Ewa Dąbrowska,1964-11-24,64112459044,48702723160,Warszawa,ul. Marszałkowska 33,ewa.dąbrowska@gmail.com
+Franciszek Kwiatkowski,1969-01-25,69012505716,48694507564,Poznań,ul. Świętokrzyska 49,franciszek.kwiatkowski@gmail.com
+Kamila Kamińska,1967-08-06,67080668184,48649049962,Poznań,Al. KEN 11,kamila.kamińska@gmail.com
+Damian Ostrowski,1950-08-07,50080765777,48589337632,Kraków,Al. Rzeczypospolitej 45,damian.ostrowski@gmail.com
+Eryk Kowalski,1940-05-23,40052347733,48812331253,Gdańsk,ul. Jana Pawła II 60,eryk.kowalski@gmail.com
+Irena Dudek,1975-05-13,75051394882,48580182225,Gdańsk,ul. Puławska 65,irena.dudek@gmail.com
+Krystyna Dąbrowska,1985-06-25,85062543841,48817795057,Łódź,ul. Jana Pawła II 33,krystyna.dąbrowska@gmail.com

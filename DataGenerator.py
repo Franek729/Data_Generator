@@ -122,8 +122,8 @@ def generate_policy():
         coverage = random.choice(possible_coverage_details)
         policy = {
             "policy_id": policy_id,
-            "start_date": start_date,
-            "end_date": end_date,
+            "start_date": start_date.date(),
+            "end_date": end_date.date(),
             "coverage": coverage,
             "agent_foreign_key": agents[random.randint(0, number_of_agents - 1)]["name"],
             "customer_foreign_key": customers[random.randint(0, number_of_customers - 1)]["pesel"]
@@ -138,7 +138,7 @@ def generate_policy():
             "insurance_price":insurance_price,
             "minimal_payout":minimal_payout,
             "maximal_payout":maximal_payout,
-            "duration_of_policy":end_date-start_date
+            "duration_of_policy":(end_date-start_date).days
         }
         policies_data.append(policy_data)
 
@@ -170,7 +170,7 @@ def generate_claim():
         start_date = policy_associated["start_date"]
 
         date_of_submission = start_date + timedelta(days=random.randint(1, 365))
-        date_of_decision = date_of_submission + timedelta(days=random.randint(1, 60))  # acceptance or rejection date
+        date_of_decision = date_of_submission + timedelta(days=random.randint(1, 60)) # acceptance or rejection date
         date_of_payout = date_of_decision + timedelta(days=random.randint(1, 14))
 
         claim_data = {
