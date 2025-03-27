@@ -62,3 +62,5 @@ possible_specialization = ["Automobile", "Property", "Health", "Life", "Industri
 
 possible_coverage_details = ["Auto insurance", "Home insurance", "Health insurance", "Life insurance", "Travel insurance",
                               "Business insurance", "Agricurtular insurance"]
+
+possible_insurance_price = [50,100,150,200,350]

@@ -5,6 +5,8 @@ agents = []
 adjusters = []
 policies = []
 claims = []
+policies_data = []
+claims_data = []
 
 number_of_customers = 100
 number_of_agents = 10
